@@ -1,0 +1,1344 @@
+Date,Province,City,New Cases,Cured Cases,Death Cases
+2020-02-26 00:00:00,Sindh,Karachi,1,0,0
+2020-02-28 00:00:00,Islamabad,Islamabad,1,0,0
+2020-03-01 00:00:00,Sindh,Karachi,1,0,0
+2020-03-01 00:00:00,Islamabad,Islamabad,1,0,0
+2020-03-03 00:00:00,Gilgit-Baltistan,Gilgit,1,0,0
+2020-03-06 00:00:00,Sindh,Karachi,1,0,0
+2020-03-08 00:00:00,Sindh,Karachi,1,1,0
+2020-03-09 00:00:00,Sindh,Karachi,9,0,0
+2020-03-10 00:00:00,Balochistan,Quetta,1,0,0
+2020-03-10 00:00:00,Sindh,Karachi,1,0,0
+2020-03-12 00:00:00,Gilgit-Baltistan,Nagar Khas,1,0,0
+2020-03-13 00:00:00,Sindh,Karachi,1,0,0
+2020-03-14 00:00:00,Sindh,Karachi,2,1,0
+2020-03-14 00:00:00,Islamabad,Islamabad,1,0,0
+2020-03-14 00:00:00,Sindh,Sukkur,7,0,0
+2020-03-15 00:00:00,Gilgit-Baltistan,Gilgit,1,0,0
+2020-03-15 00:00:00,Balochistan,Quetta,3,0,0
+2020-03-15 00:00:00,Islamabad,Islamabad,1,0,0
+2020-03-15 00:00:00,Punjab,Lahore,2,0,0
+2020-03-15 00:00:00,Sindh,Sukkur,10,0,0
+2020-03-15 00:00:00,Sindh,Karachi,4,0,0
+2020-03-16 00:00:00,Sindh,Sukkur,102,0,0
+2020-03-16 00:00:00,Sindh,Karachi,9,0,0
+2020-03-16 00:00:00,Balochistan,Quetta,5,0,0
+2020-03-16 00:00:00,KPK,Dera Ismail Khan,14,0,0
+2020-03-17 00:00:00,Punjab,Dera Ghazi Khan,20,0,0
+2020-03-17 00:00:00,Punjab,Gujrat,1,0,0
+2020-03-17 00:00:00,Punjab,Lahore,3,0,0
+2020-03-17 00:00:00,Sindh,Sukkur,17,0,0
+2020-03-17 00:00:00,Sindh,Karachi,5,1,0
+2020-03-18 00:00:00,Sindh,Sukkur,15,0,0
+2020-03-18 00:00:00,Punjab,Lahore,1,0,0
+2020-03-18 00:00:00,Punjab,Gujrat,1,0,0
+2020-03-18 00:00:00,KPK,Peshawar,1,0,0
+2020-03-18 00:00:00,KPK,Dera Ismail Khan,1,0,0
+2020-03-18 00:00:00,Islamabad,Islamabad,1,0,0
+2020-03-18 00:00:00,Sindh,Karachi,21,0,0
+2020-03-18 00:00:00,Gilgit-Baltistan,Nagar Khas,6,0,0
+2020-03-18 00:00:00,Gilgit-Baltistan,Skardu,5,0,0
+2020-03-18 00:00:00,Azad Kashmir,New Mirpur,1,0,0
+2020-03-18 00:00:00,KPK,Mardan,2,0,1
+2020-03-18 00:00:00,Gilgit-Baltistan,Gilgit,6,0,0
+2020-03-19 00:00:00,Punjab,Lahore,8,0,0
+2020-03-19 00:00:00,Sindh,Karachi,5,0,0
+2020-03-19 00:00:00,Punjab,Gujrat,1,0,0
+2020-03-19 00:00:00,Gilgit-Baltistan,Skardu,1,0,0
+2020-03-19 00:00:00,KPK,Peshawar,4,0,0
+2020-03-19 00:00:00,Balochistan,Quetta,47,0,0
+2020-03-19 00:00:00,Gilgit-Baltistan,Nagar Khas,1,0,0
+2020-03-19 00:00:00,Punjab,Dera Ghazi Khan,35,0,0
+2020-03-20 00:00:00,Sindh,Karachi,25,0,1
+2020-03-20 00:00:00,Sindh,Sukkur,14,0,0
+2020-03-20 00:00:00,Punjab,Rawalpindi,1,0,0
+2020-03-20 00:00:00,Punjab,Dera Ghazi Khan,16,0,0
+2020-03-20 00:00:00,Punjab,Lahore,1,0,0
+2020-03-20 00:00:00,Islamabad,Islamabad,5,0,0
+2020-03-20 00:00:00,Gilgit-Baltistan,Gilgit,1,0,0
+2020-03-20 00:00:00,Gilgit-Baltistan,Nagar Khas,5,0,0
+2020-03-20 00:00:00,Gilgit-Baltistan,Shigar,1,0,0
+2020-03-20 00:00:00,Gilgit-Baltistan,Skardu,1,0,0
+2020-03-20 00:00:00,Punjab,Jhelum,1,0,0
+2020-03-21 00:00:00,Punjab,Jhelum,1,0,0
+2020-03-21 00:00:00,Sindh,Karachi,15,0,0
+2020-03-21 00:00:00,Sindh,Hyderabad City,1,0,0
+2020-03-21 00:00:00,Sindh,Sukkur,25,0,0
+2020-03-21 00:00:00,Punjab,Lahore,5,0,0
+2020-03-21 00:00:00,Punjab,Gujranwala,4,0,0
+2020-03-21 00:00:00,Punjab,Dera Ghazi Khan,49,0,0
+2020-03-21 00:00:00,KPK,Dera Ismail Khan,1,0,0
+2020-03-21 00:00:00,Gilgit-Baltistan,Nagar Khas,11,0,0
+2020-03-21 00:00:00,KPK,Mardan,4,0,0
+2020-03-21 00:00:00,KPK,Charsadda,1,0,0
+2020-03-21 00:00:00,Islamabad,Islamabad,1,0,0
+2020-03-21 00:00:00,Balochistan,Quetta,11,0,0
+2020-03-21 00:00:00,Gilgit-Baltistan,Gilgit,5,0,0
+2020-03-21 00:00:00,Gilgit-Baltistan,Shigar,4,0,0
+2020-03-21 00:00:00,Gilgit-Baltistan,Skardu,3,0,0
+2020-03-21 00:00:00,Gilgit-Baltistan,Kharmang,2,0,0
+2020-03-21 00:00:00,KPK,Mansehra,2,0,0
+2020-03-22 00:00:00,Punjab,Lahore,14,0,0
+2020-03-22 00:00:00,Sindh,Karachi,0,1,0
+2020-03-22 00:00:00,Punjab,Sargodha,1,0,0
+2020-03-22 00:00:00,Punjab,Dera Ghazi Khan,55,0,0
+2020-03-22 00:00:00,Punjab,Gujrat,1,0,0
+2020-03-22 00:00:00,Punjab,Jhelum,1,0,0
+2020-03-22 00:00:00,Balochistan,Quetta,23,0,1
+2020-03-23 00:00:00,Sindh,Karachi,33,0,0
+2020-03-23 00:00:00,Punjab,Rawalpindi,1,0,0
+2020-03-23 00:00:00,KPK,Mansehra,1,0,0
+2020-03-23 00:00:00,KPK,Karak,1,0,0
+2020-03-23 00:00:00,Islamabad,Islamabad,4,0,0
+2020-03-23 00:00:00,KPK,Peshawar,5,0,1
+2020-03-23 00:00:00,Gilgit-Baltistan,Gilgit,2,0,0
+2020-03-23 00:00:00,Gilgit-Baltistan,Nagar Khas,11,0,0
+2020-03-23 00:00:00,Gilgit-Baltistan,Skardu,1,0,0
+2020-03-23 00:00:00,Gilgit-Baltistan,Kharmang,1,0,0
+2020-03-23 00:00:00,Gilgit-Baltistan,Ghanche,1,0,0
+2020-03-23 00:00:00,Balochistan,Quetta,4,0,0
+2020-03-24 00:00:00,Punjab,Gujrat,16,0,0
+2020-03-24 00:00:00,Sindh,Karachi,5,8,0
+2020-03-24 00:00:00,Sindh,Sukkur,74,0,0
+2020-03-24 00:00:00,Punjab,Lahore,31,0,1
+2020-03-24 00:00:00,Punjab,Faisalabad,1,0,0
+2020-03-24 00:00:00,Punjab,Gujranwala,4,0,0
+2020-03-24 00:00:00,Punjab,Rahimyar Khan,1,0,0
+2020-03-24 00:00:00,Punjab,Dera Ghazi Khan,1,0,0
+2020-03-24 00:00:00,Balochistan,Quetta,2,0,0
+2020-03-24 00:00:00,Punjab,Mandi Bahauddin,1,0,0
+2020-03-24 00:00:00,KPK,Peshawar,2,0,0
+2020-03-24 00:00:00,KPK,Dera Ismail Khan,38,0,0
+2020-03-24 00:00:00,Gilgit-Baltistan,Gilgit,2,0,0
+2020-03-24 00:00:00,Gilgit-Baltistan,Nagar Khas,3,0,0
+2020-03-24 00:00:00,Gilgit-Baltistan,Shigar,2,0,0
+2020-03-24 00:00:00,Gilgit-Baltistan,Skardu,2,0,0
+2020-03-24 00:00:00,Punjab,Jhelum,2,0,0
+2020-03-25 00:00:00,Punjab,Rawalpindi,2,0,1
+2020-03-25 00:00:00,Sindh,Karachi,8,0,0
+2020-03-25 00:00:00,Sindh,Sukkur,1,0,0
+2020-03-25 00:00:00,Punjab,Lahore,15,2,0
+2020-03-25 00:00:00,Punjab,Faisalabad,2,0,0
+2020-03-25 00:00:00,Punjab,Multan,1,0,0
+2020-03-25 00:00:00,Punjab,Jhelum,3,0,0
+2020-03-25 00:00:00,Punjab,Narowal,1,0,0
+2020-03-25 00:00:00,Gilgit-Baltistan,Skardu,1,0,0
+2020-03-25 00:00:00,Punjab,Attock City,1,0,0
+2020-03-25 00:00:00,Islamabad,Islamabad,3,0,0
+2020-03-25 00:00:00,Punjab,Gujrat,1,0,0
+2020-03-26 00:00:00,Sindh,Karachi,2,0,0
+2020-03-26 00:00:00,Sindh,Hyderabad City,1,0,0
+2020-03-26 00:00:00,Sindh,Dadu,1,0,0
+2020-03-26 00:00:00,Punjab,Lahore,23,1,0
+2020-03-26 00:00:00,Punjab,Rawalpindi,10,0,0
+2020-03-26 00:00:00,Punjab,Multan,1,0,0
+2020-03-26 00:00:00,Punjab,Gujrat,1,0,0
+2020-03-26 00:00:00,Punjab,Dera Ghazi Khan,31,0,0
+2020-03-26 00:00:00,Punjab,Bahawalnagar,1,0,0
+2020-03-26 00:00:00,Punjab,Mandi Bahauddin,2,0,0
+2020-03-26 00:00:00,Punjab,Mianwali,2,0,0
+2020-03-26 00:00:00,KPK,Mardan,41,0,0
+2020-03-26 00:00:00,KPK,Dir Upper,2,0,0
+2020-03-26 00:00:00,Islamabad,Islamabad,7,0,0
+2020-03-26 00:00:00,Balochistan,Quetta,21,0,0
+2020-03-26 00:00:00,Gilgit-Baltistan,Gilgit,2,0,0
+2020-03-26 00:00:00,Gilgit-Baltistan,Nagar Khas,4,0,0
+2020-03-26 00:00:00,Gilgit-Baltistan,Skardu,3,0,0
+2020-03-26 00:00:00,Gilgit-Baltistan,Kharmang,1,0,0
+2020-03-26 00:00:00,Azad Kashmir,New Mirpur,1,0,0
+2020-03-26 00:00:00,KPK,Peshawar,2,0,0
+2020-03-27 00:00:00,Punjab,Gujranwala,1,0,0
+2020-03-27 00:00:00,Punjab,Dera Ghazi Khan,5,0,0
+2020-03-27 00:00:00,Punjab,Gujrat,16,0,0
+2020-03-27 00:00:00,Punjab,Multan,1,0,0
+2020-03-27 00:00:00,Punjab,Nankana Sahib,2,0,0
+2020-03-27 00:00:00,Punjab,Lahore,12,0,0
+2020-03-27 00:00:00,Sindh,Larkana,3,0,0
+2020-03-27 00:00:00,Sindh,Hyderabad City,1,1,0
+2020-03-27 00:00:00,Sindh,Karachi,15,0,0
+2020-03-27 00:00:00,Punjab,Faisalabad,2,0,0
+2020-03-27 00:00:00,Punjab,Khushab,1,0,0
+2020-03-27 00:00:00,Punjab,Sargodha,1,0,0
+2020-03-27 00:00:00,KPK,Dera Ismail Khan,1,0,0
+2020-03-27 00:00:00,KPK,Peshawar,4,0,0
+2020-03-27 00:00:00,KPK,Swat,2,0,0
+2020-03-27 00:00:00,KPK,Buner,5,0,0
+2020-03-27 00:00:00,KPK,Orakzai,1,0,0
+2020-03-27 00:00:00,KPK,Swabi,4,0,0
+2020-03-27 00:00:00,KPK,Shangla,1,0,0
+2020-03-27 00:00:00,KPK,Charsadda,1,0,0
+2020-03-27 00:00:00,KPK,South Waziristan,1,0,0
+2020-03-27 00:00:00,KPK,Nowshera,3,0,0
+2020-03-27 00:00:00,KPK,Mardan,32,0,0
+2020-03-27 00:00:00,KPK,Mansehra,2,0,0
+2020-03-27 00:00:00,KPK,Malakand,1,0,0
+2020-03-28 00:00:00,Punjab,Mandi Bahauddin,1,0,0
+2020-03-28 00:00:00,Sindh,Karachi,25,1,0
+2020-03-28 00:00:00,Sindh,Hyderabad City,4,0,0
+2020-03-28 00:00:00,Punjab,Lahore,4,0,2
+2020-03-28 00:00:00,Punjab,Rawalpindi,5,0,0
+2020-03-28 00:00:00,Punjab,Gujranwala,1,0,0
+2020-03-28 00:00:00,Punjab,Gujrat,13,0,0
+2020-03-28 00:00:00,Punjab,Vihari,2,0,0
+2020-03-28 00:00:00,Punjab,Jhelum,2,0,0
+2020-03-28 00:00:00,Punjab,Raiwind,21,0,0
+2020-03-28 00:00:00,KPK,Swat,1,0,0
+2020-03-28 00:00:00,KPK,Abbottabad,1,0,0
+2020-03-28 00:00:00,Gilgit-Baltistan,Kharmang,1,0,0
+2020-03-28 00:00:00,Gilgit-Baltistan,Skardu,10,0,0
+2020-03-28 00:00:00,KPK,Peshawar,2,0,0
+2020-03-28 00:00:00,Gilgit-Baltistan,Nagar Khas,0,0,1
+2020-03-28 00:00:00,Gilgit-Baltistan,Gilgit,1,0,0
+2020-03-28 00:00:00,Gilgit-Baltistan,Shigar,4,0,0
+2020-03-28 00:00:00,Islamabad,Islamabad,14,0,0
+2020-03-28 00:00:00,KPK,Dir Lower,1,0,0
+2020-03-28 00:00:00,KPK,Kohat,3,0,0
+2020-03-28 00:00:00,Balochistan,Quetta,2,0,0
+2020-03-29 00:00:00,Punjab,Bahawalpur,1,0,0
+2020-03-29 00:00:00,Sindh,Karachi,33,0,2
+2020-03-29 00:00:00,Punjab,Lahore,1,0,0
+2020-03-29 00:00:00,Punjab,Rawalpindi,11,0,0
+2020-03-29 00:00:00,Punjab,Gujranwala,1,0,0
+2020-03-29 00:00:00,Punjab,Gujrat,4,1,0
+2020-03-29 00:00:00,Punjab,Rahimyar Khan,0,0,1
+2020-03-29 00:00:00,KPK,Peshawar,2,0,0
+2020-03-29 00:00:00,Gilgit-Baltistan,Skardu,4,0,0
+2020-03-29 00:00:00,KPK,Abbottabad,1,0,1
+2020-03-29 00:00:00,Islamabad,Islamabad,4,0,0
+2020-03-29 00:00:00,Balochistan,Quetta,5,0,0
+2020-03-29 00:00:00,Gilgit-Baltistan,Gilgit,4,1,0
+2020-03-29 00:00:00,Gilgit-Baltistan,Shigar,1,0,0
+2020-03-29 00:00:00,Punjab,Jhelum,7,0,0
+2020-03-30 00:00:00,Punjab,Nankana Sahib,2,0,0
+2020-03-30 00:00:00,Punjab,Gujrat,7,0,0
+2020-03-30 00:00:00,Punjab,Rahimyar Khan,2,0,0
+2020-03-30 00:00:00,Punjab,Rawalpindi,10,0,2
+2020-03-30 00:00:00,Sindh,Jacobabad,1,0,0
+2020-03-30 00:00:00,Punjab,Lahore,8,1,1
+2020-03-30 00:00:00,Punjab,Hafizabad,5,0,0
+2020-03-30 00:00:00,Sindh,Hyderabad City,5,0,0
+2020-03-30 00:00:00,Sindh,Karachi,27,6,3
+2020-03-30 00:00:00,Punjab,Faisalabad,3,0,0
+2020-03-30 00:00:00,Punjab,Mianwali,1,0,0
+2020-03-30 00:00:00,Punjab,Kasur,1,0,0
+2020-03-30 00:00:00,KPK,Peshawar,17,0,0
+2020-03-30 00:00:00,Punjab,Raiwind,6,0,0
+2020-03-30 00:00:00,Gilgit-Baltistan,Kharmang,1,0,0
+2020-03-30 00:00:00,Gilgit-Baltistan,Skardu,5,0,0
+2020-03-30 00:00:00,Balochistan,Quetta,6,0,0
+2020-03-30 00:00:00,Islamabad,Islamabad,8,0,0
+2020-03-30 00:00:00,Gilgit-Baltistan,Gilgit,6,0,0
+2020-03-30 00:00:00,KPK,Mardan,1,0,0
+2020-03-30 00:00:00,KPK,Mansehra,1,0,0
+2020-03-30 00:00:00,KPK,Dera Ismail Khan,3,0,0
+2020-03-30 00:00:00,KPK,Bannu,1,0,0
+2020-03-30 00:00:00,KPK,Dir Lower,3,0,0
+2020-03-31 00:00:00,Punjab,Narowal,1,0,0
+2020-03-31 00:00:00,KPK,Peshawar,13,0,0
+2020-03-31 00:00:00,KPK,Kohat,10,0,0
+2020-03-31 00:00:00,Punjab,Layyah,1,0,0
+2020-03-31 00:00:00,Punjab,Bahawalnagar,1,0,0
+2020-03-31 00:00:00,Sindh,Hyderabad City,116,0,0
+2020-03-31 00:00:00,Punjab,Gujrat,10,0,0
+2020-03-31 00:00:00,Punjab,Gujranwala,1,0,0
+2020-03-31 00:00:00,Punjab,Rawalpindi,9,0,0
+2020-03-31 00:00:00,Punjab,Lahore,26,0,0
+2020-03-31 00:00:00,Sindh,Karachi,25,8,0
+2020-03-31 00:00:00,Punjab,Lodhran,2,0,0
+2020-03-31 00:00:00,KPK,Dera Ismail Khan,7,0,0
+2020-03-31 00:00:00,KPK,Kurram,2,0,0
+2020-03-31 00:00:00,KPK,Mardan,1,0,0
+2020-03-31 00:00:00,KPK,Haripur,1,0,0
+2020-03-31 00:00:00,Gilgit-Baltistan,Ghanche,2,0,0
+2020-03-31 00:00:00,Gilgit-Baltistan,Astore,2,0,0
+2020-03-31 00:00:00,Gilgit-Baltistan,Kharmang,2,0,0
+2020-03-31 00:00:00,Gilgit-Baltistan,Skardu,6,0,0
+2020-03-31 00:00:00,Azad Kashmir,New Mirpur,4,0,0
+2020-03-31 00:00:00,Gilgit-Baltistan,Nagar Khas,3,0,0
+2020-03-31 00:00:00,Gilgit-Baltistan,Gilgit,3,0,0
+2020-03-31 00:00:00,Balochistan,Quetta,9,5,0
+2020-03-31 00:00:00,Islamabad,Islamabad,3,0,0
+2020-03-31 00:00:00,KPK,Bajaur,2,0,0
+2020-03-31 00:00:00,Gilgit-Baltistan,Shigar,2,0,0
+2020-04-01 00:00:00,KPK,Bannu,1,0,0
+2020-04-01 00:00:00,KPK,Abbottabad,3,0,0
+2020-04-01 00:00:00,Punjab,Raiwind,14,0,0
+2020-04-01 00:00:00,Punjab,Gujrat,5,0,0
+2020-04-01 00:00:00,Punjab,Rawalpindi,2,0,0
+2020-04-01 00:00:00,Punjab,Sargodha,4,0,0
+2020-04-01 00:00:00,Punjab,Lahore,24,0,0
+2020-04-01 00:00:00,Sindh,Karachi,33,3,3
+2020-04-01 00:00:00,KPK,Kohat,1,0,0
+2020-04-01 00:00:00,Punjab,Sialkot City,1,0,0
+2020-04-01 00:00:00,KPK,Dera Ismail Khan,0,0,1
+2020-04-01 00:00:00,KPK,Haripur,2,0,0
+2020-04-01 00:00:00,Gilgit-Baltistan,Shigar,2,0,0
+2020-04-01 00:00:00,KPK,Mardan,7,0,0
+2020-04-01 00:00:00,KPK,Nowshera,1,0,0
+2020-04-01 00:00:00,KPK,Tank,1,0,0
+2020-04-01 00:00:00,KPK,Dir Upper,1,0,0
+2020-04-01 00:00:00,KPK,Khyber Pass,1,0,0
+2020-04-01 00:00:00,Balochistan,Quetta,3,0,0
+2020-04-01 00:00:00,Gilgit-Baltistan,Gilgit,2,0,1
+2020-04-01 00:00:00,Gilgit-Baltistan,Nagar Khas,24,0,0
+2020-04-01 00:00:00,Gilgit-Baltistan,Skardu,3,0,0
+2020-04-01 00:00:00,Gilgit-Baltistan,Kharmang,2,0,0
+2020-04-01 00:00:00,KPK,Mansehra,2,0,0
+2020-04-01 00:00:00,Gilgit-Baltistan,Astore,3,0,0
+2020-04-02 00:00:00,Punjab,Raiwind,101,0,0
+2020-04-02 00:00:00,KPK,Peshawar,16,0,0
+2020-04-02 00:00:00,KPK,Bannu,0,0,1
+2020-04-02 00:00:00,Punjab,Vihari,4,0,0
+2020-04-02 00:00:00,KPK,Abbottabad,1,0,0
+2020-04-02 00:00:00,Punjab,Dera Ghazi Khan,6,0,0
+2020-04-02 00:00:00,Sindh,Hyderabad City,9,0,0
+2020-04-02 00:00:00,Punjab,Rawalpindi,2,0,0
+2020-04-02 00:00:00,Punjab,Lahore,21,0,2
+2020-04-02 00:00:00,Sindh,Shaheed Benazirabad,6,0,0
+2020-04-02 00:00:00,Sindh,Sukkur,8,0,0
+2020-04-02 00:00:00,Sindh,Karachi,29,11,1
+2020-04-02 00:00:00,Punjab,Gujranwala,2,0,0
+2020-04-02 00:00:00,KPK,Kohat,6,0,0
+2020-04-02 00:00:00,Gilgit-Baltistan,Gilgit,1,0,0
+2020-04-02 00:00:00,KPK,Mansehra,1,0,0
+2020-04-02 00:00:00,KPK,Dera Ismail Khan,2,0,0
+2020-04-02 00:00:00,Gilgit-Baltistan,Nagar Khas,2,0,0
+2020-04-02 00:00:00,Balochistan,Quetta,5,0,0
+2020-04-02 00:00:00,Islamabad,Islamabad,8,0,0
+2020-04-02 00:00:00,KPK,Dir Lower,5,0,1
+2020-04-02 00:00:00,KPK,Buner,1,0,1
+2020-04-02 00:00:00,Azad Kashmir,Bhimber,3,0,0
+2020-04-02 00:00:00,KPK,Dir Upper,2,0,0
+2020-04-02 00:00:00,KPK,Hangu,1,0,0
+2020-04-02 00:00:00,KPK,Nowshera,1,0,1
+2020-04-02 00:00:00,KPK,Mardan,0,10,0
+2020-04-02 00:00:00,KPK,Karak,1,0,0
+2020-04-02 00:00:00,KPK,Swabi,1,0,0
+2020-04-03 00:00:00,Punjab,Sheikhupura,1,0,0
+2020-04-03 00:00:00,Punjab,Sialkot City,1,0,0
+2020-04-03 00:00:00,Punjab,Bahawalpur,1,0,0
+2020-04-03 00:00:00,Punjab,Gujranwala,1,0,0
+2020-04-03 00:00:00,Punjab,Rawalpindi,2,0,0
+2020-04-03 00:00:00,Sindh,Ghotki,2,0,0
+2020-04-03 00:00:00,Sindh,Jamshoro,2,0,0
+2020-04-03 00:00:00,Sindh,Badin,1,0,0
+2020-04-03 00:00:00,Sindh,Hyderabad City,15,0,0
+2020-04-03 00:00:00,Sindh,Karachi,44,0,3
+2020-04-03 00:00:00,Punjab,Gujrat,3,0,0
+2020-04-03 00:00:00,Punjab,Vihari,1,0,0
+2020-04-03 00:00:00,Sindh,Tando Muhammad Khan,5,0,0
+2020-04-03 00:00:00,Punjab,Raiwind,109,0,0
+2020-04-03 00:00:00,Punjab,Jhelum,1,0,0
+2020-04-03 00:00:00,Gilgit-Baltistan,Ghanche,1,0,0
+2020-04-03 00:00:00,Gilgit-Baltistan,Nagar Khas,1,0,0
+2020-04-03 00:00:00,Gilgit-Baltistan,Gilgit,1,0,0
+2020-04-03 00:00:00,Balochistan,Quetta,6,0,0
+2020-04-03 00:00:00,Islamabad,Islamabad,6,0,0
+2020-04-03 00:00:00,KPK,Swat,10,0,1
+2020-04-03 00:00:00,Punjab,Lahore,14,0,0
+2020-04-03 00:00:00,KPK,Buner,1,0,0
+2020-04-03 00:00:00,KPK,Abbottabad,6,0,0
+2020-04-03 00:00:00,KPK,Mansehra,2,0,1
+2020-04-03 00:00:00,KPK,Peshawar,4,0,0
+2020-04-03 00:00:00,KPK,Dir Upper,1,0,0
+2020-04-03 00:00:00,KPK,Hangu,8,0,0
+2020-04-04 00:00:00,Sindh,Karachi,9,0,1
+2020-04-04 00:00:00,Punjab,Lahore,10,0,0
+2020-04-04 00:00:00,Punjab,Gujranwala,7,0,0
+2020-04-04 00:00:00,Punjab,Bahawalpur,1,0,0
+2020-04-04 00:00:00,Punjab,Sialkot City,5,0,0
+2020-04-04 00:00:00,Punjab,Kasur,7,0,0
+2020-04-04 00:00:00,Punjab,Chiniot,5,0,0
+2020-04-04 00:00:00,Punjab,Lodhran,1,0,0
+2020-04-04 00:00:00,Punjab,Hafizabad,1,0,0
+2020-04-04 00:00:00,Punjab,Narowal,1,0,0
+2020-04-04 00:00:00,Punjab,Raiwind,40,0,0
+2020-04-04 00:00:00,KPK,Peshawar,6,0,3
+2020-04-04 00:00:00,KPK,Bannu,4,0,0
+2020-04-04 00:00:00,Punjab,Rawalpindi,1,0,0
+2020-04-04 00:00:00,KPK,Nowshera,2,0,0
+2020-04-04 00:00:00,KPK,Dera Ismail Khan,1,0,0
+2020-04-04 00:00:00,Azad Kashmir,Bhimber,1,0,0
+2020-04-04 00:00:00,Gilgit-Baltistan,Astore,1,0,0
+2020-04-04 00:00:00,Gilgit-Baltistan,Nagar Khas,0,1,0
+2020-04-04 00:00:00,Gilgit-Baltistan,Gilgit,1,2,0
+2020-04-04 00:00:00,Balochistan,Quetta,8,0,0
+2020-04-04 00:00:00,Gilgit-Baltistan,Skardu,1,1,0
+2020-04-04 00:00:00,KPK,Tor Ghar,1,0,0
+2020-04-04 00:00:00,KPK,Lakki Marwat,4,0,0
+2020-04-04 00:00:00,Islamabad,Islamabad,7,0,0
+2020-04-04 00:00:00,KPK,Buner,4,0,0
+2020-04-04 00:00:00,KPK,Dir Upper,2,0,0
+2020-04-04 00:00:00,KPK,Shangla,2,0,0
+2020-04-04 00:00:00,KPK,Khyber Pass,3,0,0
+2020-04-05 00:00:00,KPK,Abbottabad,5,0,0
+2020-04-05 00:00:00,KPK,Peshawar,7,0,1
+2020-04-05 00:00:00,Punjab,Raiwind,357,0,0
+2020-04-05 00:00:00,Punjab,Mandi Bahauddin,3,0,0
+2020-04-05 00:00:00,Punjab,Vihari,1,0,0
+2020-04-05 00:00:00,Punjab,Narowal,2,0,0
+2020-04-05 00:00:00,Punjab,Bahawalnagar,1,0,0
+2020-04-05 00:00:00,Punjab,Khushab,2,0,0
+2020-04-05 00:00:00,Punjab,Hafizabad,5,0,0
+2020-04-05 00:00:00,Punjab,Nankana Sahib,4,0,0
+2020-04-05 00:00:00,Punjab,Okara,1,0,0
+2020-04-05 00:00:00,Punjab,Lahore,65,20,1
+2020-04-05 00:00:00,Punjab,Gujrat,8,0,0
+2020-04-05 00:00:00,Punjab,Rahimyar Khan,2,0,0
+2020-04-05 00:00:00,Punjab,Sargodha,1,0,0
+2020-04-05 00:00:00,Punjab,Gujranwala,4,0,0
+2020-04-05 00:00:00,Punjab,Rawalpindi,4,0,0
+2020-04-05 00:00:00,Sindh,Sujawal,1,0,0
+2020-04-05 00:00:00,Sindh,Larkana,6,0,0
+2020-04-05 00:00:00,Sindh,Hyderabad City,4,0,0
+2020-04-05 00:00:00,Sindh,Karachi,28,22,1
+2020-04-05 00:00:00,KPK,Bannu,1,0,0
+2020-04-05 00:00:00,Punjab,Dera Ghazi Khan,13,0,0
+2020-04-05 00:00:00,KPK,Dera Ismail Khan,0,1,0
+2020-04-05 00:00:00,Sindh,Sukkur,1,0,0
+2020-04-05 00:00:00,KPK,Mansehra,0,1,0
+2020-04-05 00:00:00,KPK,Haripur,1,0,0
+2020-04-05 00:00:00,Azad Kashmir,Bhimber,3,0,0
+2020-04-05 00:00:00,Azad Kashmir,New Mirpur,0,1,0
+2020-04-05 00:00:00,Gilgit-Baltistan,Ghanche,1,0,0
+2020-04-05 00:00:00,Gilgit-Baltistan,Skardu,0,11,0
+2020-04-05 00:00:00,Gilgit-Baltistan,Shigar,3,0,0
+2020-04-05 00:00:00,Gilgit-Baltistan,Nagar Khas,6,0,0
+2020-04-05 00:00:00,Gilgit-Baltistan,Gilgit,3,0,0
+2020-04-05 00:00:00,Balochistan,Khuzdar,1,0,0
+2020-04-05 00:00:00,Balochistan,Quetta,6,10,0
+2020-04-05 00:00:00,Islamabad,Islamabad,3,0,0
+2020-04-05 00:00:00,KPK,Dir Lower,0,1,0
+2020-04-05 00:00:00,Sindh,Naushahro Firoz,2,0,0
+2020-04-05 00:00:00,KPK,Shangla,0,1,0
+2020-04-05 00:00:00,KPK,Mardan,3,18,0
+2020-04-05 00:00:00,KPK,Nowshera,6,2,0
+2020-04-05 00:00:00,KPK,Charsadda,0,1,0
+2020-04-05 00:00:00,KPK,Malakand,0,1,0
+2020-04-05 00:00:00,KPK,South Waziristan,0,1,0
+2020-04-05 00:00:00,KPK,Karak,1,0,0
+2020-04-05 00:00:00,KPK,Swabi,0,3,0
+2020-04-05 00:00:00,KPK,Orakzai,0,1,0
+2020-04-05 00:00:00,KPK,Buner,4,4,0
+2020-04-05 00:00:00,KPK,Swat,4,0,2
+2020-04-05 00:00:00,KPK,Dir Upper,0,2,0
+2020-04-06 00:00:00,Punjab,Rahimyar Khan,13,0,0
+2020-04-06 00:00:00,Punjab,Sialkot City,14,0,0
+2020-04-06 00:00:00,Punjab,Gujranwala,1,0,0
+2020-04-06 00:00:00,Punjab,Multan,1,0,0
+2020-04-06 00:00:00,Punjab,Rawalpindi,1,0,0
+2020-04-06 00:00:00,Punjab,Lahore,54,0,0
+2020-04-06 00:00:00,Sindh,Naushahro Firoz,2,0,0
+2020-04-06 00:00:00,Sindh,Sukkur,0,124,0
+2020-04-06 00:00:00,Sindh,Hyderabad City,2,0,0
+2020-04-06 00:00:00,Punjab,Dera Ghazi Khan,450,0,0
+2020-04-06 00:00:00,Punjab,Faisalabad,7,0,0
+2020-04-06 00:00:00,Punjab,Chiniot,1,0,0
+2020-04-06 00:00:00,Sindh,Karachi,46,22,2
+2020-04-06 00:00:00,Punjab,Vihari,5,0,0
+2020-04-06 00:00:00,Azad Kashmir,Bhimber,2,0,0
+2020-04-06 00:00:00,Gilgit-Baltistan,Astore,1,0,0
+2020-04-06 00:00:00,Gilgit-Baltistan,Kharmang,1,3,0
+2020-04-06 00:00:00,Gilgit-Baltistan,Shigar,2,0,0
+2020-04-06 00:00:00,Gilgit-Baltistan,Gilgit,1,0,0
+2020-04-06 00:00:00,Punjab,Narowal,1,0,0
+2020-04-06 00:00:00,Balochistan,Quetta,10,29,0
+2020-04-06 00:00:00,Islamabad,Islamabad,4,0,1
+2020-04-06 00:00:00,Punjab,Raiwind,39,0,0
+2020-04-06 00:00:00,Punjab,Toba Tek Singh,1,0,0
+2020-04-06 00:00:00,Punjab,Jhelum,9,0,0
+2020-04-06 00:00:00,Balochistan,Chagai,11,0,0
+2020-04-07 00:00:00,KPK,Abbottabad,1,0,0
+2020-04-07 00:00:00,KPK,Peshawar,20,4,0
+2020-04-07 00:00:00,Punjab,Raiwind,6,0,0
+2020-04-07 00:00:00,Punjab,Bahawalnagar,2,0,0
+2020-04-07 00:00:00,Punjab,Dera Ghazi Khan,38,0,0
+2020-04-07 00:00:00,Punjab,Kasur,1,0,0
+2020-04-07 00:00:00,Punjab,Gujrat,1,0,1
+2020-04-07 00:00:00,Punjab,Sialkot City,2,0,0
+2020-04-07 00:00:00,Punjab,Rawalpindi,3,0,1
+2020-04-07 00:00:00,Punjab,Gujranwala,7,0,0
+2020-04-07 00:00:00,Punjab,Faisalabad,13,0,0
+2020-04-07 00:00:00,Punjab,Lahore,4,0,0
+2020-04-07 00:00:00,Sindh,Shaheed Benazirabad,1,0,0
+2020-04-07 00:00:00,KPK,Bannu,2,0,0
+2020-04-07 00:00:00,Sindh,Sanghar,1,0,0
+2020-04-07 00:00:00,Sindh,Hyderabad City,1,0,0
+2020-04-07 00:00:00,Sindh,Karachi,45,0,1
+2020-04-07 00:00:00,Punjab,Sargodha,1,0,0
+2020-04-07 00:00:00,Sindh,Tando Muhammad Khan,7,0,0
+2020-04-07 00:00:00,KPK,Kohat,15,1,0
+2020-04-07 00:00:00,KPK,Mansehra,1,0,0
+2020-04-07 00:00:00,Azad Kashmir,Sudhnoti,1,0,0
+2020-04-07 00:00:00,Azad Kashmir,Bhimber,3,0,0
+2020-04-07 00:00:00,Gilgit-Baltistan,Skardu,0,6,0
+2020-04-07 00:00:00,KPK,Dera Ismail Khan,4,0,1
+2020-04-07 00:00:00,Balochistan,Quetta,2,0,0
+2020-04-07 00:00:00,Islamabad,Islamabad,1,0,0
+2020-04-07 00:00:00,KPK,Mohmand,1,0,0
+2020-04-07 00:00:00,KPK,Khyber Pass,1,0,0
+2020-04-07 00:00:00,Balochistan,Loralai,6,0,0
+2020-04-07 00:00:00,KPK,Swat,7,0,0
+2020-04-07 00:00:00,KPK,Dir Lower,6,1,0
+2020-04-07 00:00:00,KPK,Karak,1,0,0
+2020-04-07 00:00:00,KPK,Mardan,9,0,0
+2020-04-07 00:00:00,KPK,Charsadda,4,0,0
+2020-04-07 00:00:00,KPK,North Waziristan,2,0,0
+2020-04-07 00:00:00,KPK,Swabi,2,1,0
+2020-04-07 00:00:00,KPK,Buner,1,0,0
+2020-04-07 00:00:00,KPK,Dir Upper,14,0,0
+2020-04-08 00:00:00,Sindh,Karachi,50,11,0
+2020-04-08 00:00:00,KPK,Swat,1,0,0
+2020-04-08 00:00:00,Punjab,Lahore,50,0,0
+2020-04-08 00:00:00,KPK,Peshawar,7,0,0
+2020-04-08 00:00:00,KPK,Abbottabad,2,0,0
+2020-04-08 00:00:00,KPK,Bannu,1,0,0
+2020-04-08 00:00:00,KPK,Karak,1,0,0
+2020-04-08 00:00:00,KPK,Charsadda,2,0,0
+2020-04-08 00:00:00,KPK,Orakzai,3,0,0
+2020-04-08 00:00:00,KPK,Buner,1,0,0
+2020-04-08 00:00:00,Sindh,Hyderabad City,0,0,2
+2020-04-08 00:00:00,KPK,Dir Upper,3,0,0
+2020-04-08 00:00:00,KPK,Khyber Pass,1,0,0
+2020-04-08 00:00:00,KPK,Bajaur,2,0,0
+2020-04-08 00:00:00,Azad Kashmir,Poonch,2,0,0
+2020-04-08 00:00:00,Azad Kashmir,Sudhnoti,2,0,0
+2020-04-08 00:00:00,Azad Kashmir,New Mirpur,3,0,0
+2020-04-08 00:00:00,Azad Kashmir,Kotli,2,0,0
+2020-04-08 00:00:00,Gilgit-Baltistan,Astore,1,0,0
+2020-04-08 00:00:00,KPK,Shangla,2,0,0
+2020-04-08 00:00:00,Gilgit-Baltistan,Shigar,0,14,0
+2020-04-08 00:00:00,Gilgit-Baltistan,Nagar Khas,0,6,0
+2020-04-08 00:00:00,Gilgit-Baltistan,Skardu,0,7,0
+2020-04-08 00:00:00,Gilgit-Baltistan,Gilgit,0,17,0
+2020-04-08 00:00:00,Balochistan,Harnai,1,0,0
+2020-04-09 00:00:00,Punjab,Mandi Bahauddin,1,0,0
+2020-04-09 00:00:00,Punjab,Narowal,2,0,0
+2020-04-09 00:00:00,Punjab,Chakwal,4,0,0
+2020-04-09 00:00:00,Punjab,Chiniot,2,0,0
+2020-04-09 00:00:00,Punjab,Gujrat,10,0,0
+2020-04-09 00:00:00,Punjab,Rahimyar Khan,4,0,0
+2020-04-09 00:00:00,Punjab,Sheikhupura,2,0,0
+2020-04-09 00:00:00,Punjab,Sialkot City,4,0,0
+2020-04-09 00:00:00,Punjab,Gujranwala,4,0,0
+2020-04-09 00:00:00,Punjab,Toba Tek Singh,1,0,0
+2020-04-09 00:00:00,Punjab,Lahore,37,14,3
+2020-04-09 00:00:00,Sindh,Shaheed Benazirabad,1,0,0
+2020-04-09 00:00:00,Sindh,Khairpur,14,0,0
+2020-04-09 00:00:00,Sindh,Sukkur,0,59,0
+2020-04-09 00:00:00,Sindh,Hyderabad City,3,0,0
+2020-04-09 00:00:00,Sindh,Karachi,74,10,1
+2020-04-09 00:00:00,Punjab,Bahawalpur,2,0,0
+2020-04-09 00:00:00,Punjab,Mianwali,7,0,0
+2020-04-09 00:00:00,Punjab,Jhang City,1,0,0
+2020-04-09 00:00:00,KPK,Peshawar,1,1,1
+2020-04-09 00:00:00,Azad Kashmir,Sudhnoti,4,0,0
+2020-04-09 00:00:00,Gilgit-Baltistan,Skardu,0,11,0
+2020-04-09 00:00:00,Punjab,Raiwind,40,0,0
+2020-04-09 00:00:00,Gilgit-Baltistan,Nagar Khas,0,17,0
+2020-04-09 00:00:00,Gilgit-Baltistan,Gilgit,0,1,0
+2020-04-09 00:00:00,Islamabad,Islamabad,19,0,0
+2020-04-09 00:00:00,KPK,Khyber Pass,2,0,0
+2020-04-09 00:00:00,KPK,Kurram,4,0,0
+2020-04-09 00:00:00,KPK,Bajaur,1,0,0
+2020-04-09 00:00:00,Gilgit-Baltistan,Shigar,1,4,0
+2020-04-09 00:00:00,KPK,Buner,12,1,0
+2020-04-09 00:00:00,KPK,Dir Upper,7,0,0
+2020-04-09 00:00:00,KPK,Charsadda,3,1,0
+2020-04-09 00:00:00,KPK,Nowshera,5,0,0
+2020-04-09 00:00:00,KPK,Mansehra,0,1,0
+2020-04-09 00:00:00,KPK,Dera Ismail Khan,0,48,0
+2020-04-09 00:00:00,KPK,Kohat,1,0,1
+2020-04-09 00:00:00,KPK,Shangla,0,0,1
+2020-04-10 00:00:00,KPK,Karak,0,1,0
+2020-04-10 00:00:00,KPK,Haripur,6,0,0
+2020-04-10 00:00:00,KPK,Dera Ismail Khan,0,2,0
+2020-04-10 00:00:00,KPK,Kohat,2,1,0
+2020-04-10 00:00:00,KPK,Bannu,5,0,0
+2020-04-10 00:00:00,KPK,Abbottabad,6,0,0
+2020-04-10 00:00:00,Sindh,Sujawal,1,0,0
+2020-04-10 00:00:00,Punjab,Sheikhupura,7,0,0
+2020-04-10 00:00:00,Punjab,Lahore,20,0,1
+2020-04-10 00:00:00,Sindh,Sukkur,0,3,0
+2020-04-10 00:00:00,Sindh,Hyderabad City,1,0,0
+2020-04-10 00:00:00,Sindh,Karachi,84,6,1
+2020-04-10 00:00:00,KPK,Mardan,4,0,1
+2020-04-10 00:00:00,KPK,Peshawar,22,0,1
+2020-04-10 00:00:00,KPK,Nowshera,1,0,0
+2020-04-10 00:00:00,Gilgit-Baltistan,Kharmang,0,4,0
+2020-04-10 00:00:00,KPK,Tank,0,1,0
+2020-04-10 00:00:00,Gilgit-Baltistan,Astore,0,0,1
+2020-04-10 00:00:00,KPK,Charsadda,4,0,0
+2020-04-10 00:00:00,Islamabad,Islamabad,5,10,0
+2020-04-10 00:00:00,KPK,Tor Ghar,1,0,0
+2020-04-10 00:00:00,KPK,Bajaur,3,3,0
+2020-04-10 00:00:00,KPK,Dir Lower,0,0,1
+2020-04-10 00:00:00,KPK,Shangla,2,0,0
+2020-04-10 00:00:00,Balochistan,Quetta,21,0,0
+2020-04-10 00:00:00,KPK,Buner,10,1,0
+2020-04-10 00:00:00,KPK,Swat,9,2,1
+2020-04-10 00:00:00,KPK,Hangu,5,1,0
+2020-04-10 00:00:00,KPK,Malakand,2,0,1
+2020-04-10 00:00:00,KPK,Swabi,3,0,0
+2020-04-10 00:00:00,KPK,Orakzai,1,0,0
+2020-04-10 00:00:00,KPK,Dir Upper,11,0,0
+2020-04-11 00:00:00,KPK,Kohat,5,0,1
+2020-04-11 00:00:00,Sindh,Hyderabad City,13,0,0
+2020-04-11 00:00:00,Sindh,Larkana,3,0,0
+2020-04-11 00:00:00,Sindh,Sanghar,1,0,0
+2020-04-11 00:00:00,Punjab,Lahore,23,0,0
+2020-04-11 00:00:00,Punjab,Gujrat,30,0,0
+2020-04-11 00:00:00,Punjab,Nankana Sahib,2,0,0
+2020-04-11 00:00:00,Sindh,Karachi,87,13,3
+2020-04-11 00:00:00,Punjab,Raiwind,13,0,0
+2020-04-11 00:00:00,KPK,Peshawar,4,0,4
+2020-04-11 00:00:00,KPK,Abbottabad,0,4,0
+2020-04-11 00:00:00,KPK,Mansehra,6,0,0
+2020-04-11 00:00:00,KPK,Dir Lower,4,0,0
+2020-04-11 00:00:00,KPK,Nowshera,2,0,1
+2020-04-11 00:00:00,KPK,Mardan,3,0,0
+2020-04-11 00:00:00,Azad Kashmir,Rawala Kot,1,0,0
+2020-04-11 00:00:00,Azad Kashmir,New Mirpur,2,0,0
+2020-04-11 00:00:00,Gilgit-Baltistan,Ghanche,0,2,0
+2020-04-11 00:00:00,Balochistan,Quetta,9,0,0
+2020-04-11 00:00:00,Gilgit-Baltistan,Gilgit,2,0,0
+2020-04-11 00:00:00,KPK,Kurram,0,2,0
+2020-04-11 00:00:00,KPK,Shangla,4,0,0
+2020-04-11 00:00:00,KPK,Swat,2,2,0
+2020-04-11 00:00:00,KPK,Buner,5,0,0
+2020-04-11 00:00:00,Islamabad,Islamabad,6,0,0
+2020-04-11 00:00:00,KPK,Dir Upper,4,0,0
+2020-04-12 00:00:00,Punjab,Raiwind,75,0,0
+2020-04-12 00:00:00,Punjab,Vihari,6,0,0
+2020-04-12 00:00:00,Punjab,Khushab,1,0,0
+2020-04-12 00:00:00,Punjab,Gujrat,6,0,0
+2020-04-12 00:00:00,Punjab,Rahimyar Khan,19,0,0
+2020-04-12 00:00:00,Punjab,Rawalpindi,7,0,0
+2020-04-12 00:00:00,Punjab,Multan,19,0,0
+2020-04-12 00:00:00,KPK,Peshawar,9,0,1
+2020-04-12 00:00:00,Punjab,Faisalabad,3,0,0
+2020-04-12 00:00:00,Sindh,Sukkur,0,3,0
+2020-04-12 00:00:00,Sindh,Hyderabad City,0,0,1
+2020-04-12 00:00:00,Punjab,Bahawalpur,1,0,0
+2020-04-12 00:00:00,KPK,Kohat,2,0,0
+2020-04-12 00:00:00,Sindh,Karachi,93,15,4
+2020-04-12 00:00:00,KPK,Karak,4,0,0
+2020-04-12 00:00:00,KPK,Mansehra,10,0,0
+2020-04-12 00:00:00,Balochistan,Quetta,2,0,0
+2020-04-12 00:00:00,Islamabad,Islamabad,6,0,0
+2020-04-12 00:00:00,KPK,North Waziristan,0,2,0
+2020-04-12 00:00:00,KPK,Kurram,2,0,0
+2020-04-12 00:00:00,KPK,South Waziristan,1,0,0
+2020-04-12 00:00:00,Punjab,Lahore,47,0,0
+2020-04-12 00:00:00,KPK,Buner,6,0,0
+2020-04-12 00:00:00,KPK,Swabi,0,0,1
+2020-04-12 00:00:00,KPK,Dir Upper,1,0,0
+2020-04-12 00:00:00,KPK,Malakand,3,0,0
+2020-04-12 00:00:00,KPK,Nowshera,2,0,0
+2020-04-12 00:00:00,KPK,Swat,3,1,0
+2020-04-12 00:00:00,KPK,Mardan,2,0,1
+2020-04-13 00:00:00,Punjab,Jhelum,6,0,0
+2020-04-13 00:00:00,Punjab,Vihari,16,0,0
+2020-04-13 00:00:00,Punjab,Khanewal,2,0,0
+2020-04-13 00:00:00,Punjab,Pakpattan,1,0,0
+2020-04-13 00:00:00,Punjab,Dera Ghazi Khan,0,82,0
+2020-04-13 00:00:00,Punjab,Sialkot City,3,0,0
+2020-04-13 00:00:00,Punjab,Rahimyar Khan,1,0,0
+2020-04-13 00:00:00,Punjab,Mandi Bahauddin,1,0,0
+2020-04-13 00:00:00,Punjab,Sargodha,6,0,0
+2020-04-13 00:00:00,Punjab,Rawalpindi,14,0,0
+2020-04-13 00:00:00,Punjab,Lahore,24,0,1
+2020-04-13 00:00:00,Sindh,Sukkur,0,23,0
+2020-04-13 00:00:00,Sindh,Karachi,41,7,1
+2020-04-13 00:00:00,Punjab,Gujrat,3,0,0
+2020-04-13 00:00:00,Punjab,Mianwali,1,0,0
+2020-04-13 00:00:00,KPK,Bannu,0,1,0
+2020-04-13 00:00:00,KPK,Peshawar,31,0,0
+2020-04-13 00:00:00,Azad Kashmir,Dadyal,2,0,0
+2020-04-13 00:00:00,Azad Kashmir,Bhimber,2,0,0
+2020-04-13 00:00:00,Islamabad,Islamabad,12,2,0
+2020-04-13 00:00:00,KPK,Kurram,9,0,0
+2020-04-13 00:00:00,KPK,Bajaur,0,1,0
+2020-04-13 00:00:00,Punjab,Raiwind,156,0,0
+2020-04-13 00:00:00,KPK,Dir Lower,0,2,0
+2020-04-13 00:00:00,KPK,Swabi,0,1,0
+2020-04-13 00:00:00,KPK,Malakand,2,0,0
+2020-04-13 00:00:00,KPK,Charsadda,5,0,0
+2020-04-13 00:00:00,KPK,Nowshera,1,0,0
+2020-04-13 00:00:00,KPK,Kohat,3,0,0
+2020-04-13 00:00:00,KPK,Abbottabad,1,1,0
+2020-04-13 00:00:00,KPK,Swat,3,0,0
+2020-04-13 00:00:00,KPK,Lakki Marwat,0,2,0
+2020-04-14 00:00:00,Azad Kashmir,Poonch,1,0,0
+2020-04-14 00:00:00,Gilgit-Baltistan,Kharmang,0,4,0
+2020-04-14 00:00:00,Gilgit-Baltistan,Shigar,0,4,0
+2020-04-14 00:00:00,Gilgit-Baltistan,Skardu,0,7,0
+2020-04-14 00:00:00,Sindh,Karachi,66,5,4
+2020-04-14 00:00:00,Sindh,Hyderabad City,0,3,0
+2020-04-14 00:00:00,KPK,Peshawar,22,0,3
+2020-04-14 00:00:00,KPK,Bannu,5,0,0
+2020-04-14 00:00:00,KPK,Kohat,1,5,0
+2020-04-14 00:00:00,KPK,Dera Ismail Khan,4,0,0
+2020-04-14 00:00:00,KPK,Haripur,0,3,0
+2020-04-14 00:00:00,KPK,Nowshera,4,0,0
+2020-04-14 00:00:00,KPK,Charsadda,4,2,0
+2020-04-14 00:00:00,KPK,Abbottabad,0,3,1
+2020-04-14 00:00:00,KPK,Dir Upper,11,9,0
+2020-04-14 00:00:00,KPK,Buner,7,1,0
+2020-04-14 00:00:00,KPK,Swat,0,3,0
+2020-04-14 00:00:00,KPK,Shangla,2,4,0
+2020-04-14 00:00:00,KPK,Khyber Pass,1,0,0
+2020-04-14 00:00:00,KPK,North Waziristan,1,0,0
+2020-04-14 00:00:00,Balochistan,Quetta,9,0,0
+2020-04-14 00:00:00,Gilgit-Baltistan,Gilgit,0,10,0
+2020-04-14 00:00:00,Gilgit-Baltistan,Nagar Khas,0,29,0
+2020-04-14 00:00:00,KPK,Hangu,3,0,0
+2020-04-15 00:00:00,Punjab,Nankana Sahib,1,0,0
+2020-04-15 00:00:00,Punjab,Dera Ghazi Khan,0,120,0
+2020-04-15 00:00:00,Punjab,Sialkot City,1,0,0
+2020-04-15 00:00:00,Punjab,Gujranwala,1,0,0
+2020-04-15 00:00:00,Punjab,Rawalpindi,17,0,0
+2020-04-15 00:00:00,Punjab,Faisalabad,4,0,0
+2020-04-15 00:00:00,Sindh,Hyderabad City,20,104,0
+2020-04-15 00:00:00,Sindh,Shaheed Benazirabad,28,0,0
+2020-04-15 00:00:00,Sindh,Naushahro Firoz,7,0,0
+2020-04-15 00:00:00,Sindh,Larkana,1,0,0
+2020-04-15 00:00:00,Sindh,Karachi,94,29,5
+2020-04-15 00:00:00,Punjab,Raiwind,140,95,0
+2020-04-15 00:00:00,Punjab,Lahore,26,0,4
+2020-04-15 00:00:00,KPK,Peshawar,38,0,4
+2020-04-15 00:00:00,Sindh,Sukkur,0,0,1
+2020-04-15 00:00:00,KPK,Dera Ismail Khan,7,0,0
+2020-04-15 00:00:00,KPK,Kohat,1,0,0
+2020-04-15 00:00:00,Gilgit-Baltistan,Astore,0,2,0
+2020-04-15 00:00:00,Azad Kashmir,Bhimber,0,3,0
+2020-04-15 00:00:00,Gilgit-Baltistan,Nagar Khas,4,1,0
+2020-04-15 00:00:00,Gilgit-Baltistan,Gilgit,14,10,0
+2020-04-15 00:00:00,Balochistan,Jaffarabad,9,0,0
+2020-04-15 00:00:00,Gilgit-Baltistan,Skardu,1,0,0
+2020-04-15 00:00:00,Islamabad,Islamabad,9,2,0
+2020-04-15 00:00:00,KPK,Swat,1,3,0
+2020-04-15 00:00:00,KPK,Buner,1,0,0
+2020-04-15 00:00:00,KPK,Orakzai,2,0,0
+2020-04-15 00:00:00,KPK,Mardan,0,1,0
+2020-04-15 00:00:00,KPK,Mansehra,0,1,0
+2020-04-15 00:00:00,Balochistan,Quetta,31,0,2
+2020-04-16 00:00:00,Sindh,Naushahro Firoz,3,0,0
+2020-04-16 00:00:00,Sindh,Ghotki,96,0,0
+2020-04-16 00:00:00,Sindh,Sanghar,12,0,0
+2020-04-16 00:00:00,Sindh,Tando Allahyar,4,0,0
+2020-04-16 00:00:00,Sindh,Sukkur,52,0,0
+2020-04-16 00:00:00,Sindh,Larkana,3,2,0
+2020-04-16 00:00:00,Sindh,Hyderabad City,1,0,0
+2020-04-16 00:00:00,Sindh,Karachi,70,14,4
+2020-04-16 00:00:00,Sindh,Tando Muhammad Khan,1,0,0
+2020-04-16 00:00:00,Sindh,Badin,2,0,0
+2020-04-16 00:00:00,Sindh,Shaheed Benazirabad,23,0,0
+2020-04-16 00:00:00,Sindh,Dadu,10,0,0
+2020-04-16 00:00:00,Punjab,Lahore,40,0,4
+2020-04-16 00:00:00,Sindh,Sujawal,5,0,0
+2020-04-16 00:00:00,Gilgit-Baltistan,Skardu,0,2,0
+2020-04-16 00:00:00,Islamabad,Islamabad,13,3,0
+2020-04-16 00:00:00,Punjab,Raiwind,119,0,0
+2020-04-16 00:00:00,Punjab,Bahawalnagar,3,0,0
+2020-04-16 00:00:00,Gilgit-Baltistan,Nagar Khas,0,4,0
+2020-04-16 00:00:00,Punjab,Gujrat,4,0,2
+2020-04-16 00:00:00,Punjab,Sialkot City,5,0,0
+2020-04-16 00:00:00,Punjab,Gujranwala,11,0,0
+2020-04-16 00:00:00,Punjab,Rawalpindi,0,0,3
+2020-04-16 00:00:00,Punjab,Faisalabad,0,0,1
+2020-04-16 00:00:00,Punjab,Nankana Sahib,1,0,0
+2020-04-17 00:00:00,Punjab,Faisalabad,1,0,0
+2020-04-17 00:00:00,KPK,Abbottabad,0,1,0
+2020-04-17 00:00:00,KPK,Peshawar,24,0,2
+2020-04-17 00:00:00,Punjab,Raiwind,21,0,0
+2020-04-17 00:00:00,Punjab,Mandi Bahauddin,3,0,0
+2020-04-17 00:00:00,Punjab,Dera Ghazi Khan,1,0,0
+2020-04-17 00:00:00,Punjab,Multan,4,0,0
+2020-04-17 00:00:00,Punjab,Rawalpindi,34,0,0
+2020-04-17 00:00:00,Punjab,Lahore,13,0,0
+2020-04-17 00:00:00,Sindh,Ghotki,22,0,0
+2020-04-17 00:00:00,Sindh,Naushahro Firoz,1,0,0
+2020-04-17 00:00:00,Sindh,Umarkot,1,0,0
+2020-04-17 00:00:00,Sindh,Jamshoro,2,0,0
+2020-04-17 00:00:00,Sindh,Khairpur,73,0,0
+2020-04-17 00:00:00,Sindh,Shikarpur,3,0,0
+2020-04-17 00:00:00,Sindh,Sanghar,1,0,0
+2020-04-17 00:00:00,Sindh,Badin,1,0,0
+2020-04-17 00:00:00,Sindh,Karachi,123,5,2
+2020-04-17 00:00:00,KPK,Bannu,0,2,0
+2020-04-17 00:00:00,Sindh,Tando Muhammad Khan,6,0,0
+2020-04-17 00:00:00,KPK,Kohat,0,4,0
+2020-04-17 00:00:00,KPK,Khyber Pass,0,1,0
+2020-04-17 00:00:00,KPK,Mansehra,5,1,0
+2020-04-17 00:00:00,Azad Kashmir,Bhimber,1,5,0
+2020-04-17 00:00:00,Azad Kashmir,Muzaffarabad,3,0,0
+2020-04-17 00:00:00,Gilgit-Baltistan,Gilgit,0,3,0
+2020-04-17 00:00:00,Balochistan,Kharan,2,0,0
+2020-04-17 00:00:00,Balochistan,Mastung,6,0,0
+2020-04-17 00:00:00,Balochistan,Pishin,2,0,0
+2020-04-17 00:00:00,Balochistan,Quetta,46,95,2
+2020-04-17 00:00:00,Islamabad,Islamabad,9,0,0
+2020-04-17 00:00:00,KPK,Mohmand,0,0,1
+2020-04-17 00:00:00,Azad Kashmir,New Mirpur,2,0,0
+2020-04-17 00:00:00,KPK,Kurram,2,0,0
+2020-04-17 00:00:00,Azad Kashmir,Poonch,2,0,0
+2020-04-17 00:00:00,KPK,Nowshera,1,0,1
+2020-04-17 00:00:00,KPK,Lakki Marwat,0,1,0
+2020-04-17 00:00:00,KPK,Malakand,4,0,0
+2020-04-17 00:00:00,KPK,Dera Ismail Khan,1,0,0
+2020-04-17 00:00:00,KPK,Buner,7,0,0
+2020-04-17 00:00:00,KPK,Swat,30,0,0
+2020-04-17 00:00:00,KPK,Shangla,1,0,0
+2020-04-17 00:00:00,KPK,Dir Lower,2,4,0
+2020-04-17 00:00:00,KPK,Dir Upper,3,2,0
+2020-04-18 00:00:00,KPK,Peshawar,29,1,1
+2020-04-18 00:00:00,Punjab,Raiwind,95,0,0
+2020-04-18 00:00:00,Punjab,Jhang City,1,0,0
+2020-04-18 00:00:00,Punjab,Dera Ghazi Khan,0,60,0
+2020-04-18 00:00:00,Punjab,Kasur,1,0,0
+2020-04-18 00:00:00,Punjab,Gujranwala,10,0,0
+2020-04-18 00:00:00,Sindh,Naushahro Firoz,2,0,0
+2020-04-18 00:00:00,Punjab,Lahore,6,108,2
+2020-04-18 00:00:00,Sindh,Khairpur,13,0,0
+2020-04-18 00:00:00,Sindh,Tando Allahyar,2,0,0
+2020-04-18 00:00:00,Sindh,Hyderabad City,0,1,0
+2020-04-18 00:00:00,Sindh,Karachi,112,7,1
+2020-04-18 00:00:00,KPK,Abbottabad,7,2,0
+2020-04-18 00:00:00,Punjab,Rawalpindi,2,0,0
+2020-04-18 00:00:00,Sindh,Sukkur,9,0,0
+2020-04-18 00:00:00,KPK,Bannu,1,4,0
+2020-04-18 00:00:00,KPK,Dera Ismail Khan,1,0,0
+2020-04-18 00:00:00,KPK,Kohat,0,0,1
+2020-04-18 00:00:00,Islamabad,Islamabad,9,0,1
+2020-04-18 00:00:00,KPK,Mohmand,3,0,0
+2020-04-18 00:00:00,KPK,Bajaur,3,0,0
+2020-04-18 00:00:00,KPK,Dir Lower,1,0,0
+2020-04-18 00:00:00,KPK,Shangla,4,0,0
+2020-04-18 00:00:00,KPK,Swat,2,0,0
+2020-04-18 00:00:00,KPK,Khyber Pass,2,0,0
+2020-04-18 00:00:00,KPK,Swabi,0,1,0
+2020-04-18 00:00:00,KPK,Hangu,3,0,0
+2020-04-18 00:00:00,KPK,Charsadda,4,0,0
+2020-04-18 00:00:00,KPK,Nowshera,1,5,0
+2020-04-18 00:00:00,KPK,Mansehra,14,0,2
+2020-04-18 00:00:00,KPK,Buner,9,0,0
+2020-04-18 00:00:00,KPK,Haripur,0,2,0
+2020-04-19 00:00:00,Sindh,Naushahro Firoz,2,0,0
+2020-04-19 00:00:00,Sindh,Tando Muhammad Khan,1,0,0
+2020-04-19 00:00:00,Sindh,Tharparkar,4,0,0
+2020-04-19 00:00:00,Punjab,Lahore,45,60,0
+2020-04-19 00:00:00,Punjab,Multan,4,0,0
+2020-04-19 00:00:00,Punjab,Gujranwala,4,0,2
+2020-04-19 00:00:00,Punjab,Bahawalpur,5,0,0
+2020-04-19 00:00:00,Sindh,Jacobabad,2,0,0
+2020-04-19 00:00:00,Punjab,Rawalpindi,19,15,0
+2020-04-19 00:00:00,Sindh,Umarkot,2,0,0
+2020-04-19 00:00:00,Sindh,Sukkur,6,0,0
+2020-04-19 00:00:00,Sindh,Khairpur,5,0,0
+2020-04-19 00:00:00,Sindh,Shikarpur,2,0,0
+2020-04-19 00:00:00,Sindh,Dadu,1,0,0
+2020-04-19 00:00:00,Sindh,Sanghar,1,0,0
+2020-04-19 00:00:00,Sindh,Thatta,5,0,0
+2020-04-19 00:00:00,Sindh,Larkana,47,0,0
+2020-04-19 00:00:00,Sindh,Hyderabad City,0,6,0
+2020-04-19 00:00:00,Sindh,Karachi,139,28,8
+2020-04-19 00:00:00,Punjab,Sargodha,5,0,0
+2020-04-19 00:00:00,Sindh,Jamshoro,9,0,0
+2020-04-19 00:00:00,Punjab,Sialkot City,20,10,0
+2020-04-19 00:00:00,KPK,Dir Upper,5,6,0
+2020-04-19 00:00:00,Punjab,Rahimyar Khan,2,0,0
+2020-04-19 00:00:00,Punjab,Sheikhupura,3,3,0
+2020-04-19 00:00:00,KPK,Swat,9,1,4
+2020-04-19 00:00:00,KPK,Buner,1,0,0
+2020-04-19 00:00:00,KPK,Swabi,0,1,0
+2020-04-19 00:00:00,Balochistan,Quetta,97,12,0
+2020-04-19 00:00:00,KPK,Nowshera,1,1,0
+2020-04-19 00:00:00,KPK,Mardan,2,0,1
+2020-04-19 00:00:00,KPK,Mansehra,9,0,0
+2020-04-19 00:00:00,KPK,Dera Ismail Khan,3,5,0
+2020-04-19 00:00:00,KPK,Abbottabad,2,1,1
+2020-04-19 00:00:00,KPK,Shangla,3,0,0
+2020-04-19 00:00:00,Punjab,Raiwind,145,62,0
+2020-04-19 00:00:00,Punjab,Attock City,8,2,0
+2020-04-19 00:00:00,Punjab,Toba Tek Singh,3,0,0
+2020-04-19 00:00:00,Punjab,Mandi Bahauddin,0,2,0
+2020-04-19 00:00:00,Punjab,Bahawalnagar,0,2,0
+2020-04-19 00:00:00,Punjab,Chakwal,0,1,0
+2020-04-19 00:00:00,Punjab,Jhang City,8,0,0
+2020-04-19 00:00:00,Punjab,Dera Ghazi Khan,2,0,0
+2020-04-19 00:00:00,Punjab,Gujrat,7,23,0
+2020-04-19 00:00:00,KPK,Peshawar,30,0,4
+2020-04-20 00:00:00,Punjab,Toba Tek Singh,2,0,1
+2020-04-20 00:00:00,Punjab,Raiwind,34,0,0
+2020-04-20 00:00:00,KPK,Kohat,1,3,0
+2020-04-20 00:00:00,KPK,Abbottabad,5,1,0
+2020-04-20 00:00:00,KPK,Bannu,1,0,0
+2020-04-20 00:00:00,Punjab,Lahore,23,18,0
+2020-04-20 00:00:00,KPK,Peshawar,25,0,5
+2020-04-20 00:00:00,Sindh,Kashmore,4,0,0
+2020-04-20 00:00:00,Sindh,Badin,1,0,0
+2020-04-20 00:00:00,Sindh,Tando Muhammad Khan,8,1,0
+2020-04-20 00:00:00,Sindh,Jacobabad,8,0,0
+2020-04-20 00:00:00,Sindh,Khairpur,33,0,0
+2020-04-20 00:00:00,Sindh,Mirpur Khas,2,0,0
+2020-04-20 00:00:00,Sindh,Larkana,2,1,0
+2020-04-20 00:00:00,Sindh,Hyderabad City,7,3,0
+2020-04-20 00:00:00,Sindh,Karachi,156,5,5
+2020-04-20 00:00:00,KPK,Karak,0,1,0
+2020-04-20 00:00:00,Sindh,Shaheed Benazirabad,6,0,0
+2020-04-20 00:00:00,KPK,Mardan,1,17,0
+2020-04-20 00:00:00,KPK,Haripur,0,1,0
+2020-04-20 00:00:00,KPK,Charsadda,3,2,0
+2020-04-20 00:00:00,Azad Kashmir,Bhimber,1,0,0
+2020-04-20 00:00:00,KPK,Nowshera,2,7,0
+2020-04-20 00:00:00,Gilgit-Baltistan,Diamir,6,0,0
+2020-04-20 00:00:00,Gilgit-Baltistan,Astore,28,0,0
+2020-04-20 00:00:00,Gilgit-Baltistan,Skardu,2,0,0
+2020-04-20 00:00:00,Balochistan,Quetta,33,0,0
+2020-04-20 00:00:00,Islamabad,Islamabad,10,0,0
+2020-04-20 00:00:00,KPK,Mohmand,2,0,0
+2020-04-20 00:00:00,KPK,Khyber Pass,0,4,0
+2020-04-20 00:00:00,KPK,Kurram,2,0,2
+2020-04-20 00:00:00,Gilgit-Baltistan,Gilgit,3,0,0
+2020-04-20 00:00:00,KPK,Dir Lower,1,0,0
+2020-04-20 00:00:00,KPK,Shangla,1,0,0
+2020-04-20 00:00:00,KPK,Swat,0,3,0
+2020-04-20 00:00:00,KPK,Buner,1,0,0
+2020-04-20 00:00:00,KPK,Swabi,5,0,0
+2020-04-20 00:00:00,KPK,Malakand,5,0,0
+2020-04-20 00:00:00,KPK,Chitral,1,0,0
+2020-04-20 00:00:00,KPK,Bajaur,1,1,0
+2020-04-20 00:00:00,KPK,Lakki Marwat,1,1,0
+2020-04-21 00:00:00,Punjab,Faisalabad,14,0,0
+2020-04-21 00:00:00,Punjab,Rawalpindi,18,0,0
+2020-04-21 00:00:00,Punjab,Gujranwala,4,0,0
+2020-04-21 00:00:00,Punjab,Sargodha,6,0,0
+2020-04-21 00:00:00,Punjab,Gujrat,6,0,0
+2020-04-21 00:00:00,Punjab,Rahimyar Khan,12,0,0
+2020-04-21 00:00:00,Punjab,Pakpattan,2,0,0
+2020-04-21 00:00:00,Punjab,Dera Ghazi Khan,42,0,0
+2020-04-21 00:00:00,Punjab,Jhang City,2,0,0
+2020-04-21 00:00:00,Punjab,Lahore,26,0,0
+2020-04-21 00:00:00,Punjab,Sheikhupura,5,0,0
+2020-04-21 00:00:00,Sindh,Kashmore,1,0,0
+2020-04-21 00:00:00,Sindh,Larkana,11,4,0
+2020-04-21 00:00:00,Sindh,Shaheed Benazirabad,2,0,0
+2020-04-21 00:00:00,Sindh,Tando Muhammad Khan,3,6,0
+2020-04-21 00:00:00,Sindh,Jacobabad,0,1,0
+2020-04-21 00:00:00,Sindh,Umarkot,1,0,0
+2020-04-21 00:00:00,Sindh,Khairpur,25,0,0
+2020-04-21 00:00:00,Sindh,Shikarpur,1,0,0
+2020-04-21 00:00:00,Sindh,Dadu,1,1,0
+2020-04-21 00:00:00,Sindh,Badin,5,0,0
+2020-04-21 00:00:00,Sindh,Sukkur,0,1,1
+2020-04-21 00:00:00,Sindh,Hyderabad City,12,16,0
+2020-04-21 00:00:00,Sindh,Karachi,218,1,4
+2020-04-21 00:00:00,Punjab,Mianwali,1,0,0
+2020-04-21 00:00:00,Sindh,Sujawal,3,0,0
+2020-04-21 00:00:00,Punjab,Attock City,2,0,0
+2020-04-21 00:00:00,Balochistan,Qila Abdullah,6,0,0
+2020-04-21 00:00:00,KPK,Peshawar,18,1,6
+2020-04-21 00:00:00,Gilgit-Baltistan,Diamir,1,0,0
+2020-04-21 00:00:00,Gilgit-Baltistan,Nagar Khas,0,9,0
+2020-04-21 00:00:00,Gilgit-Baltistan,Gilgit,9,2,0
+2020-04-21 00:00:00,Punjab,Raiwind,326,0,0
+2020-04-21 00:00:00,Balochistan,Sibi,5,0,0
+2020-04-21 00:00:00,Balochistan,Mastung,4,0,0
+2020-04-21 00:00:00,Balochistan,Pishin,7,0,0
+2020-04-21 00:00:00,Islamabad,Islamabad,4,0,0
+2020-04-21 00:00:00,KPK,Torkham,41,0,0
+2020-04-21 00:00:00,KPK,Khyber Pass,2,0,0
+2020-04-21 00:00:00,KPK,Bajaur,1,0,0
+2020-04-21 00:00:00,KPK,Dir Lower,0,7,0
+2020-04-21 00:00:00,KPK,Shangla,1,0,0
+2020-04-21 00:00:00,Balochistan,Jaffarabad,10,0,0
+2020-04-21 00:00:00,KPK,Buner,3,0,0
+2020-04-21 00:00:00,KPK,Swat,0,13,0
+2020-04-21 00:00:00,KPK,Abbottabad,0,1,0
+2020-04-21 00:00:00,KPK,Kohat,3,2,0
+2020-04-21 00:00:00,KPK,Mansehra,2,0,0
+2020-04-21 00:00:00,KPK,Karak,1,0,0
+2020-04-21 00:00:00,KPK,Bannu,0,1,0
+2020-04-21 00:00:00,KPK,Nowshera,2,0,0
+2020-04-21 00:00:00,KPK,Charsadda,0,6,0
+2020-04-21 00:00:00,KPK,Chitral,3,0,0
+2020-04-21 00:00:00,KPK,Malakand,0,0,1
+2020-04-21 00:00:00,KPK,Dir Upper,4,0,0
+2020-04-21 00:00:00,KPK,Mardan,0,2,0
+2020-04-22 00:00:00,Punjab,Gujranwala,1,0,0
+2020-04-22 00:00:00,Punjab,Jhang City,22,0,0
+2020-04-22 00:00:00,Punjab,Chiniot,3,0,0
+2020-04-22 00:00:00,Punjab,Kasur,25,0,0
+2020-04-22 00:00:00,Punjab,Gujrat,10,0,0
+2020-04-22 00:00:00,Punjab,Rahimyar Khan,5,0,0
+2020-04-22 00:00:00,Punjab,Sialkot City,3,0,0
+2020-04-22 00:00:00,Punjab,Sargodha,1,0,0
+2020-04-22 00:00:00,Punjab,Multan,4,0,0
+2020-04-22 00:00:00,Sindh,Tando Muhammad Khan,0,3,0
+2020-04-22 00:00:00,Punjab,Faisalabad,1,0,0
+2020-04-22 00:00:00,Punjab,Lahore,29,22,2
+2020-04-22 00:00:00,Sindh,Kashmore,4,0,0
+2020-04-22 00:00:00,Sindh,Shaheed Benazirabad,1,0,0
+2020-04-22 00:00:00,Sindh,Khairpur,2,0,0
+2020-04-22 00:00:00,Sindh,Ghotki,1,0,0
+2020-04-22 00:00:00,Sindh,Hyderabad City,19,6,0
+2020-04-22 00:00:00,Punjab,Bhakkar,5,0,0
+2020-04-22 00:00:00,Punjab,Rawalpindi,15,0,1
+2020-04-22 00:00:00,Punjab,Raiwind,9,0,0
+2020-04-22 00:00:00,Sindh,Karachi,292,36,0
+2020-04-22 00:00:00,KPK,Kohat,2,0,0
+2020-04-22 00:00:00,KPK,Peshawar,28,14,2
+2020-04-22 00:00:00,Gilgit-Baltistan,Diamir,0,2,0
+2020-04-22 00:00:00,Gilgit-Baltistan,Astore,1,0,0
+2020-04-22 00:00:00,Gilgit-Baltistan,Gilgit,4,0,0
+2020-04-22 00:00:00,Islamabad,Islamabad,9,6,1
+2020-04-22 00:00:00,KPK,Torkham,2,0,0
+2020-04-22 00:00:00,KPK,North Waziristan,1,0,0
+2020-04-22 00:00:00,KPK,Khyber Pass,1,0,0
+2020-04-22 00:00:00,KPK,Kurram,5,0,0
+2020-04-22 00:00:00,Gilgit-Baltistan,Nagar Khas,2,1,0
+2020-04-22 00:00:00,KPK,Swat,0,0,2
+2020-04-22 00:00:00,KPK,Buner,2,13,0
+2020-04-22 00:00:00,KPK,Swabi,0,1,1
+2020-04-22 00:00:00,KPK,Dir Upper,2,0,0
+2020-04-22 00:00:00,KPK,Malakand,11,0,0
+2020-04-22 00:00:00,KPK,Lakki Marwat,1,0,0
+2020-04-22 00:00:00,KPK,Charsadda,4,0,0
+2020-04-22 00:00:00,KPK,Nowshera,1,0,0
+2020-04-22 00:00:00,KPK,Mardan,8,0,1
+2020-04-22 00:00:00,KPK,Dir Lower,1,0,0
+2020-04-23 00:00:00,Punjab,Gujranwala,46,0,0
+2020-04-23 00:00:00,Punjab,Sargodha,5,0,0
+2020-04-23 00:00:00,Punjab,Sialkot City,26,0,0
+2020-04-23 00:00:00,Punjab,Sheikhupura,1,0,0
+2020-04-23 00:00:00,Punjab,Rahimyar Khan,1,0,0
+2020-04-23 00:00:00,Punjab,Gujrat,1,0,0
+2020-04-23 00:00:00,Punjab,Pakpattan,1,0,0
+2020-04-23 00:00:00,Punjab,Muzaffargarh,3,0,0
+2020-04-23 00:00:00,Punjab,Hafizabad,1,0,0
+2020-04-23 00:00:00,Punjab,Jhang City,2,0,0
+2020-04-23 00:00:00,Punjab,Khanewal,1,0,0
+2020-04-23 00:00:00,Punjab,Multan,4,0,0
+2020-04-23 00:00:00,Punjab,Kasur,16,0,0
+2020-04-23 00:00:00,Punjab,Rawalpindi,5,0,0
+2020-04-23 00:00:00,Sindh,Sanghar,1,0,0
+2020-04-23 00:00:00,Punjab,Lahore,114,0,3
+2020-04-23 00:00:00,Sindh,Sujawal,1,0,0
+2020-04-23 00:00:00,Sindh,Shaheed Benazirabad,14,0,1
+2020-04-23 00:00:00,Sindh,Tando Muhammad Khan,0,5,0
+2020-04-23 00:00:00,Sindh,Jamshoro,1,0,0
+2020-04-23 00:00:00,Sindh,Khairpur,1,0,0
+2020-04-23 00:00:00,Sindh,Dadu,2,0,0
+2020-04-23 00:00:00,Sindh,Ghotki,1,0,0
+2020-04-23 00:00:00,Punjab,Jhelum,5,0,0
+2020-04-23 00:00:00,Sindh,Larkana,11,1,0
+2020-04-23 00:00:00,Sindh,Sukkur,25,0,0
+2020-04-23 00:00:00,Sindh,Hyderabad City,0,3,0
+2020-04-23 00:00:00,Sindh,Karachi,242,6,6
+2020-04-23 00:00:00,Punjab,Faisalabad,1,0,1
+2020-04-23 00:00:00,Punjab,Attock City,3,0,0
+2020-04-23 00:00:00,Punjab,Raiwind,26,0,0
+2020-04-23 00:00:00,KPK,Peshawar,40,1,0
+2020-04-23 00:00:00,Gilgit-Baltistan,Astore,3,3,0
+2020-04-23 00:00:00,Gilgit-Baltistan,Nagar Khas,4,6,0
+2020-04-23 00:00:00,Gilgit-Baltistan,Gilgit,3,2,0
+2020-04-23 00:00:00,Balochistan,Jaffarabad,2,0,0
+2020-04-23 00:00:00,Balochistan,Sibi,1,0,0
+2020-04-23 00:00:00,Balochistan,Ziarat,2,0,0
+2020-04-23 00:00:00,Islamabad,Islamabad,10,0,0
+2020-04-23 00:00:00,KPK,Torkham,2,0,0
+2020-04-23 00:00:00,KPK,Khyber Pass,0,6,0
+2020-04-23 00:00:00,KPK,Kurram,1,0,0
+2020-04-23 00:00:00,KPK,Dir Lower,2,0,0
+2020-04-23 00:00:00,KPK,South Waziristan,0,1,0
+2020-04-23 00:00:00,KPK,Shangla,0,3,0
+2020-04-23 00:00:00,KPK,Swat,29,6,1
+2020-04-23 00:00:00,Balochistan,Pishin,16,0,0
+2020-04-23 00:00:00,KPK,Dir Upper,0,25,0
+2020-04-23 00:00:00,KPK,Buner,1,7,0
+2020-04-23 00:00:00,KPK,Abbottabad,2,1,0
+2020-04-23 00:00:00,KPK,Bannu,1,5,0
+2020-04-23 00:00:00,KPK,Kohat,0,7,0
+2020-04-23 00:00:00,KPK,Batgram,6,0,0
+2020-04-23 00:00:00,KPK,Mansehra,0,1,0
+2020-04-23 00:00:00,KPK,Dera Ismail Khan,2,2,0
+2020-04-23 00:00:00,KPK,Mardan,1,8,1
+2020-04-23 00:00:00,KPK,Nowshera,2,0,0
+2020-04-23 00:00:00,KPK,Charsadda,0,0,1
+2020-04-23 00:00:00,KPK,Malakand,17,0,0
+2020-04-23 00:00:00,KPK,Hangu,0,6,0
+2020-04-23 00:00:00,KPK,Karak,2,1,0
+2020-04-24 00:00:00,Punjab,Gujrat,3,0,0
+2020-04-24 00:00:00,Punjab,Lahore,113,70,3
+2020-04-24 00:00:00,Punjab,Sialkot City,5,0,0
+2020-04-24 00:00:00,Punjab,Sargodha,2,0,0
+2020-04-24 00:00:00,Punjab,Gujranwala,1,5,0
+2020-04-24 00:00:00,Punjab,Multan,7,20,0
+2020-04-24 00:00:00,Punjab,Rawalpindi,3,6,0
+2020-04-24 00:00:00,Sindh,Umarkot,1,0,0
+2020-04-24 00:00:00,Sindh,Sukkur,14,0,0
+2020-04-24 00:00:00,Sindh,Sanghar,1,0,0
+2020-04-24 00:00:00,Sindh,Tando Allahyar,1,0,0
+2020-04-24 00:00:00,Sindh,Badin,1,0,0
+2020-04-24 00:00:00,Sindh,Shahdad Kot,1,0,0
+2020-04-24 00:00:00,Sindh,Larkana,3,0,0
+2020-04-24 00:00:00,Sindh,Hyderabad City,8,18,0
+2020-04-24 00:00:00,Sindh,Karachi,243,24,2
+2020-04-24 00:00:00,Punjab,Kasur,4,0,0
+2020-04-24 00:00:00,Sindh,Khairpur,1,0,0
+2020-04-24 00:00:00,Punjab,Dera Ghazi Khan,1,50,0
+2020-04-24 00:00:00,Punjab,Muzaffargarh,7,0,0
+2020-04-24 00:00:00,Balochistan,Mastung,3,0,0
+2020-04-24 00:00:00,Balochistan,Nushki,4,0,0
+2020-04-24 00:00:00,Balochistan,Sohbatpur,1,0,0
+2020-04-24 00:00:00,Balochistan,Sibi,1,0,0
+2020-04-24 00:00:00,Balochistan,Musakhel,1,0,0
+2020-04-24 00:00:00,Balochistan,Pishin,4,0,0
+2020-04-24 00:00:00,Balochistan,Qila Abdullah,1,0,0
+2020-04-24 00:00:00,Balochistan,Zhob,2,0,0
+2020-04-24 00:00:00,Balochistan,Quetta,22,2,2
+2020-04-24 00:00:00,Balochistan,Loralai,1,0,0
+2020-04-24 00:00:00,Punjab,Raiwind,18,25,0
+2020-04-24 00:00:00,Punjab,Layyah,1,0,0
+2020-04-24 00:00:00,Punjab,Mianwali,1,0,0
+2020-04-24 00:00:00,Punjab,Narowal,2,0,0
+2020-04-24 00:00:00,Punjab,Khushab,5,0,0
+2020-04-24 00:00:00,Punjab,Jhang City,2,0,0
+2020-04-24 00:00:00,Punjab,Nankana Sahib,0,5,0
+2020-04-24 00:00:00,Islamabad,Islamabad,10,0,0
+2020-04-24 00:00:00,Punjab,Okara,2,0,0
+2020-04-25 00:00:00,KPK,Bannu,0,5,0
+2020-04-25 00:00:00,Punjab,Chiniot,0,10,0
+2020-04-25 00:00:00,KPK,Peshawar,78,9,5
+2020-04-25 00:00:00,KPK,Abbottabad,3,0,0
+2020-04-25 00:00:00,KPK,Kohat,2,10,0
+2020-04-25 00:00:00,KPK,Batgram,1,0,0
+2020-04-25 00:00:00,KPK,Mansehra,8,2,0
+2020-04-25 00:00:00,Sindh,Shaheed Benazirabad,2,0,0
+2020-04-25 00:00:00,KPK,Dera Ismail Khan,2,0,0
+2020-04-25 00:00:00,Sindh,Tando Muhammad Khan,1,0,0
+2020-04-25 00:00:00,Sindh,Hyderabad City,13,0,0
+2020-04-25 00:00:00,Sindh,Ghotki,2,0,0
+2020-04-25 00:00:00,Sindh,Sanghar,6,0,0
+2020-04-25 00:00:00,Sindh,Tando Allahyar,1,0,0
+2020-04-25 00:00:00,Sindh,Badin,1,0,0
+2020-04-25 00:00:00,Sindh,Shahdad Kot,2,0,0
+2020-04-25 00:00:00,Sindh,Mirpur Khas,2,0,0
+2020-04-25 00:00:00,Sindh,Larkana,17,0,0
+2020-04-25 00:00:00,Sindh,Sukkur,12,0,0
+2020-04-25 00:00:00,KPK,Karak,2,0,0
+2020-04-25 00:00:00,Sindh,Karachi,217,30,3
+2020-04-25 00:00:00,Sindh,Shikarpur,11,0,0
+2020-04-25 00:00:00,KPK,Mardan,7,0,0
+2020-04-25 00:00:00,KPK,Chitral,1,0,0
+2020-04-25 00:00:00,KPK,Charsadda,11,6,1
+2020-04-25 00:00:00,Azad Kashmir,Poonch,0,1,0
+2020-04-25 00:00:00,Azad Kashmir,Sudhnoti,0,1,0
+2020-04-25 00:00:00,Azad Kashmir,Bhimber,0,2,0
+2020-04-25 00:00:00,Azad Kashmir,Muzaffarabad,3,0,0
+2020-04-25 00:00:00,Azad Kashmir,Rawala Kot,1,0,0
+2020-04-25 00:00:00,KPK,Nowshera,5,1,0
+2020-04-25 00:00:00,Gilgit-Baltistan,Diamir,3,0,0
+2020-04-25 00:00:00,Gilgit-Baltistan,Ghanche,0,1,0
+2020-04-25 00:00:00,Gilgit-Baltistan,Astore,4,0,0
+2020-04-25 00:00:00,Balochistan,Quetta,97,20,3
+2020-04-25 00:00:00,Islamabad,Islamabad,9,3,0
+2020-04-25 00:00:00,Azad Kashmir,New Mirpur,0,3,0
+2020-04-25 00:00:00,KPK,Bajaur,3,0,0
+2020-04-25 00:00:00,KPK,North Waziristan,0,1,0
+2020-04-25 00:00:00,KPK,Malakand,6,0,0
+2020-04-25 00:00:00,KPK,Dir Upper,1,0,0
+2020-04-25 00:00:00,KPK,Swabi,0,4,0
+2020-04-25 00:00:00,KPK,Hangu,0,4,0
+2020-04-25 00:00:00,KPK,Buner,10,8,0
+2020-04-25 00:00:00,KPK,Swat,5,2,0
+2020-04-25 00:00:00,KPK,Shangla,12,1,0
+2020-04-25 00:00:00,KPK,Dir Lower,7,4,0
+2020-04-25 00:00:00,KPK,Orakzai,0,2,0
+2020-04-26 00:00:00,Punjab,Sialkot City,11,0,0
+2020-04-26 00:00:00,Punjab,Gujranwala,7,0,0
+2020-04-26 00:00:00,Punjab,Bahawalpur,7,0,1
+2020-04-26 00:00:00,Punjab,Sargodha,10,0,1
+2020-04-26 00:00:00,Punjab,Multan,1,0,5
+2020-04-26 00:00:00,Punjab,Rahimyar Khan,0,0,2
+2020-04-26 00:00:00,Punjab,Muzaffargarh,8,0,0
+2020-04-26 00:00:00,Punjab,Kasur,2,0,0
+2020-04-26 00:00:00,Punjab,Dera Ghazi Khan,29,68,0
+2020-04-26 00:00:00,Punjab,Okara,7,0,0
+2020-04-26 00:00:00,Punjab,Hafizabad,14,0,0
+2020-04-26 00:00:00,Punjab,Sahiwal,2,0,0
+2020-04-26 00:00:00,Punjab,Gujrat,52,0,0
+2020-04-26 00:00:00,Punjab,Rawalpindi,82,0,7
+2020-04-26 00:00:00,Punjab,Pakpattan,3,0,0
+2020-04-26 00:00:00,Sindh,Naushahro Firoz,4,0,0
+2020-04-26 00:00:00,Sindh,Jamshoro,1,8,0
+2020-04-26 00:00:00,Sindh,Khairpur,2,0,0
+2020-04-26 00:00:00,Sindh,Dadu,1,0,0
+2020-04-26 00:00:00,Sindh,Sanghar,1,0,0
+2020-04-26 00:00:00,Sindh,Tando Allahyar,2,6,0
+2020-04-26 00:00:00,Sindh,Badin,2,0,0
+2020-04-26 00:00:00,Sindh,Thatta,2,0,0
+2020-04-26 00:00:00,Sindh,Matiari,2,0,0
+2020-04-26 00:00:00,Sindh,Mirpur Khas,1,0,0
+2020-04-26 00:00:00,Sindh,Larkana,1,0,0
+2020-04-26 00:00:00,Sindh,Sukkur,17,0,0
+2020-04-26 00:00:00,Sindh,Hyderabad City,7,8,0
+2020-04-26 00:00:00,Sindh,Karachi,340,0,3
+2020-04-26 00:00:00,Punjab,Lahore,291,17,5
+2020-04-26 00:00:00,Punjab,Khushab,3,0,0
+2020-04-26 00:00:00,KPK,Swat,15,0,0
+2020-04-26 00:00:00,Punjab,Khanewal,3,0,0
+2020-04-26 00:00:00,Punjab,Bahawalnagar,2,0,0
+2020-04-26 00:00:00,Gilgit-Baltistan,Diamir,1,1,0
+2020-04-26 00:00:00,Gilgit-Baltistan,Ghanche,0,1,0
+2020-04-26 00:00:00,Gilgit-Baltistan,Astore,3,1,0
+2020-04-26 00:00:00,Gilgit-Baltistan,Nagar Khas,0,2,0
+2020-04-26 00:00:00,Islamabad,Islamabad,22,0,0
+2020-04-26 00:00:00,KPK,Kohistan,1,0,0
+2020-04-26 00:00:00,KPK,Torkham,25,0,0
+2020-04-26 00:00:00,KPK,Dir Lower,0,1,0
+2020-04-26 00:00:00,KPK,Buner,0,1,0
+2020-04-26 00:00:00,KPK,Hangu,0,1,0
+2020-04-26 00:00:00,KPK,Malakand,8,0,0
+2020-04-26 00:00:00,KPK,Chitral,3,0,0
+2020-04-26 00:00:00,KPK,Charsadda,1,0,0
+2020-04-26 00:00:00,KPK,Nowshera,2,0,0
+2020-04-26 00:00:00,Gilgit-Baltistan,Gilgit,7,1,0
+2020-04-26 00:00:00,KPK,Mansehra,0,1,0
+2020-04-26 00:00:00,KPK,Mardan,4,0,0
+2020-04-26 00:00:00,Punjab,Narowal,5,0,0
+2020-04-26 00:00:00,Punjab,Vihari,14,0,0
+2020-04-26 00:00:00,Punjab,Mandi Bahauddin,18,0,0
+2020-04-26 00:00:00,Punjab,Bhakkar,5,0,0
+2020-04-26 00:00:00,Punjab,Mianwali,7,0,0
+2020-04-26 00:00:00,Punjab,Jhelum,17,0,0
+2020-04-26 00:00:00,Punjab,Raiwind,12,126,0
+2020-04-26 00:00:00,KPK,Peshawar,107,7,4
+2020-04-26 00:00:00,KPK,Bannu,1,1,0
+2020-04-26 00:00:00,KPK,Kohat,0,1,0
+2020-04-26 00:00:00,KPK,Haripur,3,0,0
+2020-04-26 00:00:00,Punjab,Attock City,5,0,0
+2020-04-26 00:00:00,KPK,Batgram,6,0,0
+2020-04-27 00:00:00,Sindh,Jacobabad,1,0,0
+2020-04-27 00:00:00,Sindh,Naushahro Firoz,0,1,0
+2020-04-27 00:00:00,Sindh,Tando Muhammad Khan,0,2,0
+2020-04-27 00:00:00,Sindh,Shaheed Benazirabad,0,6,0
+2020-04-27 00:00:00,Punjab,Lahore,30,0,0
+2020-04-27 00:00:00,Punjab,Faisalabad,3,2,0
+2020-04-27 00:00:00,Sindh,Umarkot,0,1,0
+2020-04-27 00:00:00,Punjab,Rawalpindi,9,0,2
+2020-04-27 00:00:00,Sindh,Sujawal,0,1,0
+2020-04-27 00:00:00,Sindh,Jamshoro,0,3,0
+2020-04-27 00:00:00,Sindh,Matiari,2,0,0
+2020-04-27 00:00:00,Sindh,Dadu,3,10,0
+2020-04-27 00:00:00,Sindh,Ghotki,8,2,0
+2020-04-27 00:00:00,Sindh,Sanghar,0,2,0
+2020-04-27 00:00:00,Sindh,Badin,0,1,0
+2020-04-27 00:00:00,Sindh,Thatta,1,3,0
+2020-04-27 00:00:00,Sindh,Larkana,12,2,0
+2020-04-27 00:00:00,Sindh,Sukkur,4,0,0
+2020-04-27 00:00:00,Sindh,Karachi,275,17,4
+2020-04-27 00:00:00,Punjab,Multan,0,6,2
+2020-04-27 00:00:00,Sindh,Khairpur,23,9,0
+2020-04-27 00:00:00,Punjab,Gujranwala,21,0,0
+2020-04-27 00:00:00,Sindh,Hyderabad City,12,0,0
+2020-04-27 00:00:00,Punjab,Rahimyar Khan,3,0,0
+2020-04-27 00:00:00,Punjab,Bahawalpur,0,0,1
+2020-04-27 00:00:00,Azad Kashmir,Kotli,7,0,0
+2020-04-27 00:00:00,KPK,Torkham,2,0,0
+2020-04-27 00:00:00,KPK,North Waziristan,0,1,0
+2020-04-27 00:00:00,KPK,Kurram,1,0,0
+2020-04-27 00:00:00,KPK,Bajaur,5,0,0
+2020-04-27 00:00:00,KPK,Dir Lower,6,0,0
+2020-04-27 00:00:00,KPK,Shangla,0,3,0
+2020-04-27 00:00:00,KPK,Swat,21,1,1
+2020-04-27 00:00:00,KPK,Buner,2,14,0
+2020-04-27 00:00:00,KPK,Dir Upper,0,1,0
+2020-04-27 00:00:00,Gilgit-Baltistan,Gilgit,1,0,0
+2020-04-27 00:00:00,KPK,Charsadda,1,1,0
+2020-04-27 00:00:00,KPK,Malakand,4,1,0
+2020-04-27 00:00:00,Punjab,Nankana Sahib,0,3,0
+2020-04-27 00:00:00,Punjab,Attock City,0,0,1
+2020-04-27 00:00:00,Punjab,Raiwind,2,0,0
+2020-04-27 00:00:00,Punjab,Bahawalnagar,1,0,0
+2020-04-27 00:00:00,KPK,Abbottabad,4,1,0
+2020-04-27 00:00:00,KPK,Kohat,0,1,0
+2020-04-27 00:00:00,KPK,Karak,0,2,0
+2020-04-27 00:00:00,KPK,Nowshera,1,2,0
+2020-04-27 00:00:00,KPK,Peshawar,24,2,4
+2020-04-28 00:00:00,KPK,Chitral,7,0,0
+2020-04-28 00:00:00,KPK,Bannu,5,0,0
+2020-04-28 00:00:00,KPK,Charsadda,1,2,0
+2020-04-28 00:00:00,KPK,Nowshera,3,1,0
+2020-04-28 00:00:00,KPK,Mansehra,9,0,0
+2020-04-28 00:00:00,KPK,Batgram,7,0,0
+2020-04-28 00:00:00,KPK,Kohat,0,4,0
+2020-04-28 00:00:00,KPK,Peshawar,51,3,4
+2020-04-28 00:00:00,Punjab,Sargodha,10,0,0
+2020-04-28 00:00:00,Punjab,Okara,1,0,0
+2020-04-28 00:00:00,Punjab,Gujrat,4,0,0
+2020-04-28 00:00:00,Punjab,Sialkot City,5,0,0
+2020-04-28 00:00:00,Punjab,Bahawalpur,2,0,0
+2020-04-28 00:00:00,Punjab,Gujranwala,5,0,1
+2020-04-28 00:00:00,Punjab,Rawalpindi,5,0,0
+2020-04-28 00:00:00,Punjab,Faisalabad,2,0,0
+2020-04-28 00:00:00,Punjab,Lahore,44,0,8
+2020-04-28 00:00:00,KPK,Malakand,6,2,1
+2020-04-28 00:00:00,Punjab,Lodhran,1,0,0
+2020-04-28 00:00:00,KPK,Dir Upper,5,1,0
+2020-04-28 00:00:00,KPK,Mardan,4,0,0
+2020-04-28 00:00:00,KPK,Swat,3,0,0
+2020-04-28 00:00:00,KPK,Buner,8,4,0
+2020-04-28 00:00:00,Gilgit-Baltistan,Diamir,1,4,0
+2020-04-28 00:00:00,Gilgit-Baltistan,Astore,6,0,0
+2020-04-28 00:00:00,Gilgit-Baltistan,Gilgit,4,0,0
+2020-04-28 00:00:00,Balochistan,Nushki,4,0,0
+2020-04-28 00:00:00,Balochistan,Jaffarabad,2,0,0
+2020-04-28 00:00:00,Balochistan,Chagai,23,0,0
+2020-04-28 00:00:00,Balochistan,Sibi,1,0,0
+2020-04-28 00:00:00,Balochistan,Kharan,2,0,0
+2020-04-28 00:00:00,Gilgit-Baltistan,Nagar Khas,0,1,0
+2020-04-28 00:00:00,Balochistan,Pishin,9,0,0
+2020-04-28 00:00:00,Balochistan,Qila Abdullah,4,0,0
+2020-04-28 00:00:00,Balochistan,Loralai,2,0,0
+2020-04-28 00:00:00,Balochistan,Quetta,75,0,0
+2020-04-28 00:00:00,Islamabad,Islamabad,16,6,1
+2020-04-28 00:00:00,KPK,Kurram,2,0,0
+2020-04-28 00:00:00,KPK,Bajaur,2,0,1
+2020-04-28 00:00:00,KPK,Dir Lower,7,0,0
+2020-04-28 00:00:00,Balochistan,Mastung,4,0,0
+2020-04-28 00:00:00,KPK,Shangla,0,1,0
+2020-04-29 00:00:00,Punjab,Jhang City,0,0,1
+2020-04-29 00:00:00,Punjab,Hafizabad,2,0,0
+2020-04-29 00:00:00,Punjab,Nankana Sahib,1,0,0
+2020-04-29 00:00:00,Punjab,Muzaffargarh,5,0,0
+2020-04-29 00:00:00,Punjab,Okara,6,0,0
+2020-04-29 00:00:00,Punjab,Dera Ghazi Khan,0,14,0
+2020-04-29 00:00:00,Punjab,Gujranwala,5,0,0
+2020-04-29 00:00:00,Punjab,Gujrat,3,0,0
+2020-04-29 00:00:00,Punjab,Sialkot City,7,0,1
+2020-04-29 00:00:00,Punjab,Multan,22,0,5
+2020-04-29 00:00:00,Punjab,Rawalpindi,2,1,1
+2020-04-29 00:00:00,Punjab,Faisalabad,0,0,2
+2020-04-29 00:00:00,Punjab,Khushab,1,0,0
+2020-04-29 00:00:00,Punjab,Kasur,1,0,0
+2020-04-29 00:00:00,Punjab,Bahawalnagar,1,0,0
+2020-04-29 00:00:00,KPK,Lakki Marwat,0,2,0
+2020-04-29 00:00:00,KPK,Peshawar,107,1,7
+2020-04-29 00:00:00,KPK,Torkham,27,0,0
+2020-04-29 00:00:00,KPK,Bajaur,2,6,0
+2020-04-29 00:00:00,KPK,Swat,6,2,0
+2020-04-29 00:00:00,KPK,Buner,0,4,0
+2020-04-29 00:00:00,KPK,Malakand,9,2,0
+2020-04-29 00:00:00,KPK,Chitral,1,0,0
+2020-04-29 00:00:00,Punjab,Raiwind,1,0,0
+2020-04-29 00:00:00,KPK,Charsadda,1,2,0
+2020-04-29 00:00:00,KPK,Mardan,0,0,2
+2020-04-29 00:00:00,KPK,Karak,1,0,0
+2020-04-29 00:00:00,KPK,Mansehra,4,2,0
+2020-04-29 00:00:00,KPK,Batgram,2,0,0
+2020-04-29 00:00:00,KPK,Kohat,0,6,0
+2020-04-29 00:00:00,KPK,Abbottabad,10,1,1
+2020-04-29 00:00:00,KPK,Nowshera,6,1,0
+2020-04-29 00:00:00,Punjab,Lahore,147,10,2
